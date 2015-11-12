@@ -5,9 +5,9 @@ from django.utils.encoding import force_text
 from django.utils.safestring import mark_safe
 from django.utils.html import format_html
 
-from utils import get_icon_choices
+from utils import get_icon_choices_and_filters
 
-CHOICES = get_icon_choices()
+CHOICES, icon_filters = get_icon_choices_and_filters()
 
 
 class IconWidget(forms.Select):
@@ -27,18 +27,25 @@ class IconWidget(forms.Select):
         else:
             selected_html = ''
 
+        filters = icon_filters[option_value]
+        if filters is not None:
+            filters = mark_safe('data-icon-filter="' + ' '.join(filters) + '"')
+        else:
+            filters = ''
+
         return format_html(
-            '<option data-icon-name="{0}" value="{0}"{1}>{2}</option>',
+            '<option data-icon-name="{0}" {3} value="{0}"{1}>{2}</option>',
             option_value,
             selected_html,
             force_text(option_label),
+            filters,
         )
 
     class Media:
 
         js = (
             'fontawesome/js/django_fontawesome.js',
-            "//cdnjs.cloudflare.com/ajax/libs/select2/4.0.1-rc.1/js/select2.min.js"
+            "//cdnjs.cloudflare.com/ajax/libs/select2/4.0.1-rc.1/js/select2.full.min.js"
         )
 
         css = {

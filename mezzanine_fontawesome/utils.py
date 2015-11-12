@@ -5,9 +5,10 @@ import json
 PATH = os.path.join(os.path.dirname(__file__), 'icons.json')
 
 
-def get_icon_choices():
+def get_icon_choices_and_filters():
 
     CHOICES = [('', '----------')]
+    icon_filters = {'': ['----------']}
 
     with open(PATH) as f:
         icons = json.load(f)
@@ -17,4 +18,7 @@ def get_icon_choices():
             icon.get('id'),
             icon.get('name')
         ))
-    return CHOICES
+
+        icon_filters[icon.get('id')] = icon.get('filter')
+
+    return CHOICES, icon_filters
