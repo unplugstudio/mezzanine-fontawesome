@@ -2,7 +2,7 @@ import os
 import json
 
 # Converted from https://github.com/FortAwesome/Font-Awesome/blob/master/src/icons.yml
-PATH = os.path.join(os.path.dirname(__file__), 'icons.json')
+PATH = os.path.join(os.path.dirname(__file__), 'static/fontawesome/js/icons.json')
 
 
 def get_icon_choices_and_filters():
