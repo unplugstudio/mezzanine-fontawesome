@@ -1,7 +1,7 @@
 {
   "icons": [
     {
-      "name": "Glass",
+      "text": "Glass",
       "id": "glass",
       "unicode": "f000",
       "created": 1,
@@ -17,7 +17,7 @@
       ]
     },
     {
-      "name": "Music",
+      "text": "Music",
       "id": "music",
       "unicode": "f001",
       "created": 1,
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "name": "Search",
+      "text": "Search",
       "id": "search",
       "unicode": "f002",
       "created": 1,
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "name": "Envelope Outlined",
+      "text": "Envelope Outlined",
       "id": "envelope-o",
       "unicode": "f003",
       "created": 1,
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "name": "Heart",
+      "text": "Heart",
       "id": "heart",
       "unicode": "f004",
       "created": 1,
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "name": "Star",
+      "text": "Star",
       "id": "star",
       "unicode": "f005",
       "created": 1,
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": "Star Outlined",
+      "text": "Star Outlined",
       "id": "star-o",
       "unicode": "f006",
       "created": 1,
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "name": "User",
+      "text": "User",
       "id": "user",
       "unicode": "f007",
       "created": 1,
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "name": "Film",
+      "text": "Film",
       "id": "film",
       "unicode": "f008",
       "created": 1,
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "name": "th-large",
+      "text": "th-large",
       "id": "th-large",
       "unicode": "f009",
       "created": 1,
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "th",
+      "text": "th",
       "id": "th",
       "unicode": "f00a",
       "created": 1,
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "name": "th-list",
+      "text": "th-list",
       "id": "th-list",
       "unicode": "f00b",
       "created": 1,
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "name": "Check",
+      "text": "Check",
       "id": "check",
       "unicode": "f00c",
       "created": 1,
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "name": "Times",
+      "text": "Times",
       "id": "times",
       "unicode": "f00d",
       "created": 1,
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "name": "Search Plus",
+      "text": "Search Plus",
       "id": "search-plus",
       "unicode": "f00e",
       "created": 1,
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "name": "Search Minus",
+      "text": "Search Minus",
       "id": "search-minus",
       "unicode": "f010",
       "created": 1,
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "name": "Power Off",
+      "text": "Power Off",
       "id": "power-off",
       "unicode": "f011",
       "created": 1,
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "name": "signal",
+      "text": "signal",
       "id": "signal",
       "unicode": "f012",
       "created": 1,
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "name": "cog",
+      "text": "cog",
       "id": "cog",
       "unicode": "f013",
       "created": 1,
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "name": "Trash Outlined",
+      "text": "Trash Outlined",
       "id": "trash-o",
       "unicode": "f014",
       "created": 1,
@@ -302,7 +302,7 @@
       ]
     },
     {
-      "name": "home",
+      "text": "home",
       "id": "home",
       "unicode": "f015",
       "created": 1,
@@ -315,7 +315,7 @@
       ]
     },
     {
-      "name": "File Outlined",
+      "text": "File Outlined",
       "id": "file-o",
       "unicode": "f016",
       "created": 1,
@@ -331,7 +331,7 @@
       ]
     },
     {
-      "name": "Clock Outlined",
+      "text": "Clock Outlined",
       "id": "clock-o",
       "unicode": "f017",
       "created": 1,
@@ -346,7 +346,7 @@
       ]
     },
     {
-      "name": "road",
+      "text": "road",
       "id": "road",
       "unicode": "f018",
       "created": 1,
@@ -358,7 +358,7 @@
       ]
     },
     {
-      "name": "Download",
+      "text": "Download",
       "id": "download",
       "unicode": "f019",
       "created": 1,
@@ -370,7 +370,7 @@
       ]
     },
     {
-      "name": "Arrow Circle Outlined Down",
+      "text": "Arrow Circle Outlined Down",
       "id": "arrow-circle-o-down",
       "unicode": "f01a",
       "created": 1,
@@ -382,7 +382,7 @@
       ]
     },
     {
-      "name": "Arrow Circle Outlined Up",
+      "text": "Arrow Circle Outlined Up",
       "id": "arrow-circle-o-up",
       "unicode": "f01b",
       "created": 1,
@@ -391,7 +391,7 @@
       ]
     },
     {
-      "name": "inbox",
+      "text": "inbox",
       "id": "inbox",
       "unicode": "f01c",
       "created": 1,
@@ -400,7 +400,7 @@
       ]
     },
     {
-      "name": "Play Circle Outlined",
+      "text": "Play Circle Outlined",
       "id": "play-circle-o",
       "unicode": "f01d",
       "created": 1,
@@ -409,7 +409,7 @@
       ]
     },
     {
-      "name": "Repeat",
+      "text": "Repeat",
       "id": "repeat",
       "unicode": "f01e",
       "created": 1,
@@ -425,7 +425,7 @@
       ]
     },
     {
-      "name": "refresh",
+      "text": "refresh",
       "id": "refresh",
       "unicode": "f021",
       "created": 1,
@@ -439,7 +439,7 @@
       ]
     },
     {
-      "name": "list-alt",
+      "text": "list-alt",
       "id": "list-alt",
       "unicode": "f022",
       "created": 1,
@@ -457,7 +457,7 @@
       ]
     },
     {
-      "name": "lock",
+      "text": "lock",
       "id": "lock",
       "unicode": "f023",
       "created": 1,
@@ -470,7 +470,7 @@
       ]
     },
     {
-      "name": "flag",
+      "text": "flag",
       "id": "flag",
       "unicode": "f024",
       "created": 1,
@@ -484,7 +484,7 @@
       ]
     },
     {
-      "name": "headphones",
+      "text": "headphones",
       "id": "headphones",
       "unicode": "f025",
       "created": 1,
@@ -498,7 +498,7 @@
       ]
     },
     {
-      "name": "volume-off",
+      "text": "volume-off",
       "id": "volume-off",
       "unicode": "f026",
       "created": 1,
@@ -512,7 +512,7 @@
       ]
     },
     {
-      "name": "volume-down",
+      "text": "volume-down",
       "id": "volume-down",
       "unicode": "f027",
       "created": 1,
@@ -527,7 +527,7 @@
       ]
     },
     {
-      "name": "volume-up",
+      "text": "volume-up",
       "id": "volume-up",
       "unicode": "f028",
       "created": 1,
@@ -542,7 +542,7 @@
       ]
     },
     {
-      "name": "qrcode",
+      "text": "qrcode",
       "id": "qrcode",
       "unicode": "f029",
       "created": 1,
@@ -554,7 +554,7 @@
       ]
     },
     {
-      "name": "barcode",
+      "text": "barcode",
       "id": "barcode",
       "unicode": "f02a",
       "created": 1,
@@ -566,7 +566,7 @@
       ]
     },
     {
-      "name": "tag",
+      "text": "tag",
       "id": "tag",
       "unicode": "f02b",
       "created": 1,
@@ -578,7 +578,7 @@
       ]
     },
     {
-      "name": "tags",
+      "text": "tags",
       "id": "tags",
       "unicode": "f02c",
       "created": 1,
@@ -590,7 +590,7 @@
       ]
     },
     {
-      "name": "book",
+      "text": "book",
       "id": "book",
       "unicode": "f02d",
       "created": 1,
@@ -603,7 +603,7 @@
       ]
     },
     {
-      "name": "bookmark",
+      "text": "bookmark",
       "id": "bookmark",
       "unicode": "f02e",
       "created": 1,
@@ -615,7 +615,7 @@
       ]
     },
     {
-      "name": "print",
+      "text": "print",
       "id": "print",
       "unicode": "f02f",
       "created": 1,
@@ -624,7 +624,7 @@
       ]
     },
     {
-      "name": "camera",
+      "text": "camera",
       "id": "camera",
       "unicode": "f030",
       "created": 1,
@@ -638,7 +638,7 @@
       ]
     },
     {
-      "name": "font",
+      "text": "font",
       "id": "font",
       "unicode": "f031",
       "created": 1,
@@ -650,7 +650,7 @@
       ]
     },
     {
-      "name": "bold",
+      "text": "bold",
       "id": "bold",
       "unicode": "f032",
       "created": 1,
@@ -659,7 +659,7 @@
       ]
     },
     {
-      "name": "italic",
+      "text": "italic",
       "id": "italic",
       "unicode": "f033",
       "created": 1,
@@ -671,7 +671,7 @@
       ]
     },
     {
-      "name": "text-height",
+      "text": "text-height",
       "id": "text-height",
       "unicode": "f034",
       "created": 1,
@@ -680,7 +680,7 @@
       ]
     },
     {
-      "name": "text-width",
+      "text": "text-width",
       "id": "text-width",
       "unicode": "f035",
       "created": 1,
@@ -689,7 +689,7 @@
       ]
     },
     {
-      "name": "align-left",
+      "text": "align-left",
       "id": "align-left",
       "unicode": "f036",
       "created": 1,
@@ -701,7 +701,7 @@
       ]
     },
     {
-      "name": "align-center",
+      "text": "align-center",
       "id": "align-center",
       "unicode": "f037",
       "created": 1,
@@ -714,7 +714,7 @@
       ]
     },
     {
-      "name": "align-right",
+      "text": "align-right",
       "id": "align-right",
       "unicode": "f038",
       "created": 1,
@@ -726,7 +726,7 @@
       ]
     },
     {
-      "name": "align-justify",
+      "text": "align-justify",
       "id": "align-justify",
       "unicode": "f039",
       "created": 1,
@@ -738,7 +738,7 @@
       ]
     },
     {
-      "name": "list",
+      "text": "list",
       "id": "list",
       "unicode": "f03a",
       "created": 1,
@@ -756,7 +756,7 @@
       ]
     },
     {
-      "name": "Outdent",
+      "text": "Outdent",
       "id": "outdent",
       "unicode": "f03b",
       "created": 1,
@@ -768,7 +768,7 @@
       ]
     },
     {
-      "name": "Indent",
+      "text": "Indent",
       "id": "indent",
       "unicode": "f03c",
       "created": 1,
@@ -777,7 +777,7 @@
       ]
     },
     {
-      "name": "Video Camera",
+      "text": "Video Camera",
       "id": "video-camera",
       "unicode": "f03d",
       "created": 1,
@@ -791,7 +791,7 @@
       ]
     },
     {
-      "name": "Picture Outlined",
+      "text": "Picture Outlined",
       "id": "picture-o",
       "unicode": "f03e",
       "created": 1,
@@ -804,7 +804,7 @@
       ]
     },
     {
-      "name": "pencil",
+      "text": "pencil",
       "id": "pencil",
       "unicode": "f040",
       "created": 1,
@@ -818,7 +818,7 @@
       ]
     },
     {
-      "name": "map-marker",
+      "text": "map-marker",
       "id": "map-marker",
       "unicode": "f041",
       "created": 1,
@@ -838,7 +838,7 @@
       ]
     },
     {
-      "name": "adjust",
+      "text": "adjust",
       "id": "adjust",
       "unicode": "f042",
       "created": 1,
@@ -850,7 +850,7 @@
       ]
     },
     {
-      "name": "tint",
+      "text": "tint",
       "id": "tint",
       "unicode": "f043",
       "created": 1,
@@ -865,7 +865,7 @@
       ]
     },
     {
-      "name": "Pencil Square Outlined",
+      "text": "Pencil Square Outlined",
       "id": "pencil-square-o",
       "unicode": "f044",
       "created": 1,
@@ -882,7 +882,7 @@
       ]
     },
     {
-      "name": "Share Square Outlined",
+      "text": "Share Square Outlined",
       "id": "share-square-o",
       "unicode": "f045",
       "created": 1,
@@ -895,7 +895,7 @@
       ]
     },
     {
-      "name": "Check Square Outlined",
+      "text": "Check Square Outlined",
       "id": "check-square-o",
       "unicode": "f046",
       "created": 1,
@@ -912,7 +912,7 @@
       ]
     },
     {
-      "name": "Arrows",
+      "text": "Arrows",
       "id": "arrows",
       "unicode": "f047",
       "created": 1,
@@ -927,7 +927,7 @@
       ]
     },
     {
-      "name": "step-backward",
+      "text": "step-backward",
       "id": "step-backward",
       "unicode": "f048",
       "created": 1,
@@ -943,7 +943,7 @@
       ]
     },
     {
-      "name": "fast-backward",
+      "text": "fast-backward",
       "id": "fast-backward",
       "unicode": "f049",
       "created": 1,
@@ -959,7 +959,7 @@
       ]
     },
     {
-      "name": "backward",
+      "text": "backward",
       "id": "backward",
       "unicode": "f04a",
       "created": 1,
@@ -972,7 +972,7 @@
       ]
     },
     {
-      "name": "play",
+      "text": "play",
       "id": "play",
       "unicode": "f04b",
       "created": 1,
@@ -987,7 +987,7 @@
       ]
     },
     {
-      "name": "pause",
+      "text": "pause",
       "id": "pause",
       "unicode": "f04c",
       "created": 1,
@@ -999,7 +999,7 @@
       ]
     },
     {
-      "name": "stop",
+      "text": "stop",
       "id": "stop",
       "unicode": "f04d",
       "created": 1,
@@ -1013,7 +1013,7 @@
       ]
     },
     {
-      "name": "forward",
+      "text": "forward",
       "id": "forward",
       "unicode": "f04e",
       "created": 1,
@@ -1026,7 +1026,7 @@
       ]
     },
     {
-      "name": "fast-forward",
+      "text": "fast-forward",
       "id": "fast-forward",
       "unicode": "f050",
       "created": 1,
@@ -1040,7 +1040,7 @@
       ]
     },
     {
-      "name": "step-forward",
+      "text": "step-forward",
       "id": "step-forward",
       "unicode": "f051",
       "created": 1,
@@ -1054,7 +1054,7 @@
       ]
     },
     {
-      "name": "eject",
+      "text": "eject",
       "id": "eject",
       "unicode": "f052",
       "created": 1,
@@ -1063,7 +1063,7 @@
       ]
     },
     {
-      "name": "chevron-left",
+      "text": "chevron-left",
       "id": "chevron-left",
       "unicode": "f053",
       "created": 1,
@@ -1077,7 +1077,7 @@
       ]
     },
     {
-      "name": "chevron-right",
+      "text": "chevron-right",
       "id": "chevron-right",
       "unicode": "f054",
       "created": 1,
@@ -1091,7 +1091,7 @@
       ]
     },
     {
-      "name": "Plus Circle",
+      "text": "Plus Circle",
       "id": "plus-circle",
       "unicode": "f055",
       "created": 1,
@@ -1106,7 +1106,7 @@
       ]
     },
     {
-      "name": "Minus Circle",
+      "text": "Minus Circle",
       "id": "minus-circle",
       "unicode": "f056",
       "created": 1,
@@ -1121,7 +1121,7 @@
       ]
     },
     {
-      "name": "Times Circle",
+      "text": "Times Circle",
       "id": "times-circle",
       "unicode": "f057",
       "created": 1,
@@ -1135,7 +1135,7 @@
       ]
     },
     {
-      "name": "Check Circle",
+      "text": "Check Circle",
       "id": "check-circle",
       "unicode": "f058",
       "created": 1,
@@ -1151,7 +1151,7 @@
       ]
     },
     {
-      "name": "Question Circle",
+      "text": "Question Circle",
       "id": "question-circle",
       "unicode": "f059",
       "filter": [
@@ -1166,7 +1166,7 @@
       ]
     },
     {
-      "name": "Info Circle",
+      "text": "Info Circle",
       "id": "info-circle",
       "unicode": "f05a",
       "created": 1,
@@ -1181,7 +1181,7 @@
       ]
     },
     {
-      "name": "Crosshairs",
+      "text": "Crosshairs",
       "id": "crosshairs",
       "unicode": "f05b",
       "created": 1,
@@ -1193,7 +1193,7 @@
       ]
     },
     {
-      "name": "Times Circle Outlined",
+      "text": "Times Circle Outlined",
       "id": "times-circle-o",
       "unicode": "f05c",
       "created": 1,
@@ -1207,7 +1207,7 @@
       ]
     },
     {
-      "name": "Check Circle Outlined",
+      "text": "Check Circle Outlined",
       "id": "check-circle-o",
       "unicode": "f05d",
       "created": 1,
@@ -1223,7 +1223,7 @@
       ]
     },
     {
-      "name": "ban",
+      "text": "ban",
       "id": "ban",
       "unicode": "f05e",
       "created": 1,
@@ -1242,7 +1242,7 @@
       ]
     },
     {
-      "name": "arrow-left",
+      "text": "arrow-left",
       "id": "arrow-left",
       "unicode": "f060",
       "created": 1,
@@ -1255,7 +1255,7 @@
       ]
     },
     {
-      "name": "arrow-right",
+      "text": "arrow-right",
       "id": "arrow-right",
       "unicode": "f061",
       "created": 1,
@@ -1268,7 +1268,7 @@
       ]
     },
     {
-      "name": "arrow-up",
+      "text": "arrow-up",
       "id": "arrow-up",
       "unicode": "f062",
       "created": 1,
@@ -1277,7 +1277,7 @@
       ]
     },
     {
-      "name": "arrow-down",
+      "text": "arrow-down",
       "id": "arrow-down",
       "unicode": "f063",
       "created": 1,
@@ -1289,7 +1289,7 @@
       ]
     },
     {
-      "name": "Share",
+      "text": "Share",
       "id": "share",
       "unicode": "f064",
       "created": 1,
@@ -1301,7 +1301,7 @@
       ]
     },
     {
-      "name": "Expand",
+      "text": "Expand",
       "id": "expand",
       "unicode": "f065",
       "created": 1,
@@ -1315,7 +1315,7 @@
       ]
     },
     {
-      "name": "Compress",
+      "text": "Compress",
       "id": "compress",
       "unicode": "f066",
       "created": 1,
@@ -1331,7 +1331,7 @@
       ]
     },
     {
-      "name": "plus",
+      "text": "plus",
       "id": "plus",
       "unicode": "f067",
       "created": 1,
@@ -1346,7 +1346,7 @@
       ]
     },
     {
-      "name": "minus",
+      "text": "minus",
       "id": "minus",
       "unicode": "f068",
       "created": 1,
@@ -1364,7 +1364,7 @@
       ]
     },
     {
-      "name": "asterisk",
+      "text": "asterisk",
       "id": "asterisk",
       "unicode": "f069",
       "created": 1,
@@ -1376,7 +1376,7 @@
       ]
     },
     {
-      "name": "Exclamation Circle",
+      "text": "Exclamation Circle",
       "id": "exclamation-circle",
       "unicode": "f06a",
       "created": 1,
@@ -1392,7 +1392,7 @@
       ]
     },
     {
-      "name": "gift",
+      "text": "gift",
       "id": "gift",
       "unicode": "f06b",
       "created": 1,
@@ -1404,7 +1404,7 @@
       ]
     },
     {
-      "name": "leaf",
+      "text": "leaf",
       "id": "leaf",
       "unicode": "f06c",
       "created": 1,
@@ -1417,7 +1417,7 @@
       ]
     },
     {
-      "name": "fire",
+      "text": "fire",
       "id": "fire",
       "unicode": "f06d",
       "created": 1,
@@ -1431,7 +1431,7 @@
       ]
     },
     {
-      "name": "Eye",
+      "text": "Eye",
       "id": "eye",
       "unicode": "f06e",
       "created": 1,
@@ -1445,7 +1445,7 @@
       ]
     },
     {
-      "name": "Eye Slash",
+      "text": "Eye Slash",
       "id": "eye-slash",
       "unicode": "f070",
       "created": 1,
@@ -1462,7 +1462,7 @@
       ]
     },
     {
-      "name": "Exclamation Triangle",
+      "text": "Exclamation Triangle",
       "id": "exclamation-triangle",
       "unicode": "f071",
       "created": 1,
@@ -1481,7 +1481,7 @@
       ]
     },
     {
-      "name": "plane",
+      "text": "plane",
       "id": "plane",
       "unicode": "f072",
       "created": 1,
@@ -1500,7 +1500,7 @@
       ]
     },
     {
-      "name": "calendar",
+      "text": "calendar",
       "id": "calendar",
       "unicode": "f073",
       "created": 1,
@@ -1514,7 +1514,7 @@
       ]
     },
     {
-      "name": "random",
+      "text": "random",
       "id": "random",
       "unicode": "f074",
       "created": 1,
@@ -1528,7 +1528,7 @@
       ]
     },
     {
-      "name": "comment",
+      "text": "comment",
       "id": "comment",
       "unicode": "f075",
       "created": 1,
@@ -1545,7 +1545,7 @@
       ]
     },
     {
-      "name": "magnet",
+      "text": "magnet",
       "id": "magnet",
       "unicode": "f076",
       "created": 1,
@@ -1554,7 +1554,7 @@
       ]
     },
     {
-      "name": "chevron-up",
+      "text": "chevron-up",
       "id": "chevron-up",
       "unicode": "f077",
       "created": 1,
@@ -1563,7 +1563,7 @@
       ]
     },
     {
-      "name": "chevron-down",
+      "text": "chevron-down",
       "id": "chevron-down",
       "unicode": "f078",
       "created": 1,
@@ -1572,7 +1572,7 @@
       ]
     },
     {
-      "name": "retweet",
+      "text": "retweet",
       "id": "retweet",
       "unicode": "f079",
       "created": 1,
@@ -1586,7 +1586,7 @@
       ]
     },
     {
-      "name": "shopping-cart",
+      "text": "shopping-cart",
       "id": "shopping-cart",
       "unicode": "f07a",
       "created": 1,
@@ -1601,7 +1601,7 @@
       ]
     },
     {
-      "name": "Folder",
+      "text": "Folder",
       "id": "folder",
       "unicode": "f07b",
       "created": 1,
@@ -1610,7 +1610,7 @@
       ]
     },
     {
-      "name": "Folder Open",
+      "text": "Folder Open",
       "id": "folder-open",
       "unicode": "f07c",
       "created": 1,
@@ -1619,7 +1619,7 @@
       ]
     },
     {
-      "name": "Arrows Vertical",
+      "text": "Arrows Vertical",
       "id": "arrows-v",
       "unicode": "f07d",
       "created": 1,
@@ -1632,7 +1632,7 @@
       ]
     },
     {
-      "name": "Arrows Horizontal",
+      "text": "Arrows Horizontal",
       "id": "arrows-h",
       "unicode": "f07e",
       "created": 1,
@@ -1645,7 +1645,7 @@
       ]
     },
     {
-      "name": "Bar Chart",
+      "text": "Bar Chart",
       "id": "bar-chart",
       "unicode": "f080",
       "created": 1,
@@ -1662,7 +1662,7 @@
       ]
     },
     {
-      "name": "Twitter Square",
+      "text": "Twitter Square",
       "id": "twitter-square",
       "unicode": "f081",
       "created": 1,
@@ -1675,7 +1675,7 @@
       ]
     },
     {
-      "name": "Facebook Square",
+      "text": "Facebook Square",
       "id": "facebook-square",
       "unicode": "f082",
       "created": 1,
@@ -1687,7 +1687,7 @@
       ]
     },
     {
-      "name": "camera-retro",
+      "text": "camera-retro",
       "id": "camera-retro",
       "unicode": "f083",
       "created": 1,
@@ -1701,7 +1701,7 @@
       ]
     },
     {
-      "name": "key",
+      "text": "key",
       "id": "key",
       "unicode": "f084",
       "created": 1,
@@ -1714,7 +1714,7 @@
       ]
     },
     {
-      "name": "cogs",
+      "text": "cogs",
       "id": "cogs",
       "unicode": "f085",
       "created": 1,
@@ -1729,7 +1729,7 @@
       ]
     },
     {
-      "name": "comments",
+      "text": "comments",
       "id": "comments",
       "unicode": "f086",
       "created": 1,
@@ -1743,7 +1743,7 @@
       ]
     },
     {
-      "name": "Thumbs Up Outlined",
+      "text": "Thumbs Up Outlined",
       "id": "thumbs-o-up",
       "unicode": "f087",
       "created": 1,
@@ -1760,7 +1760,7 @@
       ]
     },
     {
-      "name": "Thumbs Down Outlined",
+      "text": "Thumbs Down Outlined",
       "id": "thumbs-o-down",
       "unicode": "f088",
       "created": 1,
@@ -1776,7 +1776,7 @@
       ]
     },
     {
-      "name": "star-half",
+      "text": "star-half",
       "id": "star-half",
       "unicode": "f089",
       "created": 1,
@@ -1791,7 +1791,7 @@
       ]
     },
     {
-      "name": "Heart Outlined",
+      "text": "Heart Outlined",
       "id": "heart-o",
       "unicode": "f08a",
       "created": 1,
@@ -1806,7 +1806,7 @@
       ]
     },
     {
-      "name": "Sign Out",
+      "text": "Sign Out",
       "id": "sign-out",
       "unicode": "f08b",
       "created": 1,
@@ -1822,7 +1822,7 @@
       ]
     },
     {
-      "name": "LinkedIn Square",
+      "text": "LinkedIn Square",
       "id": "linkedin-square",
       "unicode": "f08c",
       "created": 1,
@@ -1831,7 +1831,7 @@
       ]
     },
     {
-      "name": "Thumb Tack",
+      "text": "Thumb Tack",
       "id": "thumb-tack",
       "unicode": "f08d",
       "created": 1,
@@ -1846,7 +1846,7 @@
       ]
     },
     {
-      "name": "External Link",
+      "text": "External Link",
       "id": "external-link",
       "unicode": "f08e",
       "created": 1,
@@ -1859,7 +1859,7 @@
       ]
     },
     {
-      "name": "Sign In",
+      "text": "Sign In",
       "id": "sign-in",
       "unicode": "f090",
       "created": 1,
@@ -1879,7 +1879,7 @@
       ]
     },
     {
-      "name": "trophy",
+      "text": "trophy",
       "id": "trophy",
       "unicode": "f091",
       "created": 1,
@@ -1894,7 +1894,7 @@
       ]
     },
     {
-      "name": "GitHub Square",
+      "text": "GitHub Square",
       "id": "github-square",
       "unicode": "f092",
       "created": 1,
@@ -1906,7 +1906,7 @@
       ]
     },
     {
-      "name": "Upload",
+      "text": "Upload",
       "id": "upload",
       "unicode": "f093",
       "created": 1,
@@ -1918,7 +1918,7 @@
       ]
     },
     {
-      "name": "Lemon Outlined",
+      "text": "Lemon Outlined",
       "id": "lemon-o",
       "unicode": "f094",
       "created": 1,
@@ -1927,7 +1927,7 @@
       ]
     },
     {
-      "name": "Phone",
+      "text": "Phone",
       "id": "phone",
       "unicode": "f095",
       "created": 2,
@@ -1943,7 +1943,7 @@
       ]
     },
     {
-      "name": "Square Outlined",
+      "text": "Square Outlined",
       "id": "square-o",
       "unicode": "f096",
       "created": 2,
@@ -1958,7 +1958,7 @@
       ]
     },
     {
-      "name": "Bookmark Outlined",
+      "text": "Bookmark Outlined",
       "id": "bookmark-o",
       "unicode": "f097",
       "created": 2,
@@ -1970,7 +1970,7 @@
       ]
     },
     {
-      "name": "Phone Square",
+      "text": "Phone Square",
       "id": "phone-square",
       "unicode": "f098",
       "created": 2,
@@ -1985,7 +1985,7 @@
       ]
     },
     {
-      "name": "Twitter",
+      "text": "Twitter",
       "id": "twitter",
       "unicode": "f099",
       "created": 2,
@@ -1998,7 +1998,7 @@
       ]
     },
     {
-      "name": "Facebook",
+      "text": "Facebook",
       "id": "facebook",
       "unicode": "f09a",
       "created": 2,
@@ -2013,7 +2013,7 @@
       ]
     },
     {
-      "name": "GitHub",
+      "text": "GitHub",
       "id": "github",
       "unicode": "f09b",
       "created": 2,
@@ -2025,7 +2025,7 @@
       ]
     },
     {
-      "name": "unlock",
+      "text": "unlock",
       "id": "unlock",
       "unicode": "f09c",
       "created": 2,
@@ -2040,7 +2040,7 @@
       ]
     },
     {
-      "name": "credit-card",
+      "text": "credit-card",
       "id": "credit-card",
       "unicode": "f09d",
       "created": 2,
@@ -2058,7 +2058,7 @@
       ]
     },
     {
-      "name": "rss",
+      "text": "rss",
       "id": "rss",
       "unicode": "f09e",
       "created": 2,
@@ -2073,7 +2073,7 @@
       ]
     },
     {
-      "name": "HDD",
+      "text": "HDD",
       "id": "hdd-o",
       "unicode": "f0a0",
       "created": 2,
@@ -2088,7 +2088,7 @@
       ]
     },
     {
-      "name": "bullhorn",
+      "text": "bullhorn",
       "id": "bullhorn",
       "unicode": "f0a1",
       "created": 2,
@@ -2103,7 +2103,7 @@
       ]
     },
     {
-      "name": "bell",
+      "text": "bell",
       "id": "bell",
       "unicode": "f0f3",
       "created": 2,
@@ -2117,7 +2117,7 @@
       ]
     },
     {
-      "name": "certificate",
+      "text": "certificate",
       "id": "certificate",
       "unicode": "f0a3",
       "created": 2,
@@ -2130,7 +2130,7 @@
       ]
     },
     {
-      "name": "Hand Outlined Right",
+      "text": "Hand Outlined Right",
       "id": "hand-o-right",
       "unicode": "f0a4",
       "created": 2,
@@ -2146,7 +2146,7 @@
       ]
     },
     {
-      "name": "Hand Outlined Left",
+      "text": "Hand Outlined Left",
       "id": "hand-o-left",
       "unicode": "f0a5",
       "created": 2,
@@ -2162,7 +2162,7 @@
       ]
     },
     {
-      "name": "Hand Outlined Up",
+      "text": "Hand Outlined Up",
       "id": "hand-o-up",
       "unicode": "f0a6",
       "created": 2,
@@ -2175,7 +2175,7 @@
       ]
     },
     {
-      "name": "Hand Outlined Down",
+      "text": "Hand Outlined Down",
       "id": "hand-o-down",
       "unicode": "f0a7",
       "created": 2,
@@ -2188,7 +2188,7 @@
       ]
     },
     {
-      "name": "Arrow Circle Left",
+      "text": "Arrow Circle Left",
       "id": "arrow-circle-left",
       "unicode": "f0a8",
       "created": 2,
@@ -2201,7 +2201,7 @@
       ]
     },
     {
-      "name": "Arrow Circle Right",
+      "text": "Arrow Circle Right",
       "id": "arrow-circle-right",
       "unicode": "f0a9",
       "created": 2,
@@ -2214,7 +2214,7 @@
       ]
     },
     {
-      "name": "Arrow Circle Up",
+      "text": "Arrow Circle Up",
       "id": "arrow-circle-up",
       "unicode": "f0aa",
       "created": 2,
@@ -2223,7 +2223,7 @@
       ]
     },
     {
-      "name": "Arrow Circle Down",
+      "text": "Arrow Circle Down",
       "id": "arrow-circle-down",
       "unicode": "f0ab",
       "created": 2,
@@ -2235,7 +2235,7 @@
       ]
     },
     {
-      "name": "Globe",
+      "text": "Globe",
       "id": "globe",
       "unicode": "f0ac",
       "created": 2,
@@ -2260,7 +2260,7 @@
       ]
     },
     {
-      "name": "Wrench",
+      "text": "Wrench",
       "id": "wrench",
       "unicode": "f0ad",
       "created": 2,
@@ -2274,7 +2274,7 @@
       ]
     },
     {
-      "name": "Tasks",
+      "text": "Tasks",
       "id": "tasks",
       "unicode": "f0ae",
       "created": 2,
@@ -2290,7 +2290,7 @@
       ]
     },
     {
-      "name": "Filter",
+      "text": "Filter",
       "id": "filter",
       "unicode": "f0b0",
       "created": 2,
@@ -2303,7 +2303,7 @@
       ]
     },
     {
-      "name": "Briefcase",
+      "text": "Briefcase",
       "id": "briefcase",
       "unicode": "f0b1",
       "created": 2,
@@ -2319,7 +2319,7 @@
       ]
     },
     {
-      "name": "Arrows Alt",
+      "text": "Arrows Alt",
       "id": "arrows-alt",
       "unicode": "f0b2",
       "created": 2,
@@ -2338,7 +2338,7 @@
       ]
     },
     {
-      "name": "Users",
+      "text": "Users",
       "id": "users",
       "unicode": "f0c0",
       "created": 2,
@@ -2355,7 +2355,7 @@
       ]
     },
     {
-      "name": "Link",
+      "text": "Link",
       "id": "link",
       "unicode": "f0c1",
       "created": 2,
@@ -2370,7 +2370,7 @@
       ]
     },
     {
-      "name": "Cloud",
+      "text": "Cloud",
       "id": "cloud",
       "filter": [
         "save"
@@ -2382,7 +2382,7 @@
       ]
     },
     {
-      "name": "Flask",
+      "text": "Flask",
       "id": "flask",
       "unicode": "f0c3",
       "created": 2,
@@ -2397,7 +2397,7 @@
       ]
     },
     {
-      "name": "Scissors",
+      "text": "Scissors",
       "id": "scissors",
       "unicode": "f0c4",
       "created": 2,
@@ -2409,7 +2409,7 @@
       ]
     },
     {
-      "name": "Files Outlined",
+      "text": "Files Outlined",
       "id": "files-o",
       "unicode": "f0c5",
       "created": 2,
@@ -2424,7 +2424,7 @@
       ]
     },
     {
-      "name": "Paperclip",
+      "text": "Paperclip",
       "id": "paperclip",
       "unicode": "f0c6",
       "created": 2,
@@ -2436,7 +2436,7 @@
       ]
     },
     {
-      "name": "Floppy Outlined",
+      "text": "Floppy Outlined",
       "id": "floppy-o",
       "unicode": "f0c7",
       "created": 2,
@@ -2448,7 +2448,7 @@
       ]
     },
     {
-      "name": "Square",
+      "text": "Square",
       "id": "square",
       "unicode": "f0c8",
       "created": 2,
@@ -2462,7 +2462,7 @@
       ]
     },
     {
-      "name": "Bars",
+      "text": "Bars",
       "id": "bars",
       "unicode": "f0c9",
       "created": 2,
@@ -2488,7 +2488,7 @@
       ]
     },
     {
-      "name": "list-ul",
+      "text": "list-ul",
       "id": "list-ul",
       "unicode": "f0ca",
       "created": 2,
@@ -2504,7 +2504,7 @@
       ]
     },
     {
-      "name": "list-ol",
+      "text": "list-ol",
       "id": "list-ol",
       "unicode": "f0cb",
       "created": 2,
@@ -2522,7 +2522,7 @@
       ]
     },
     {
-      "name": "Strikethrough",
+      "text": "Strikethrough",
       "id": "strikethrough",
       "unicode": "f0cc",
       "created": 2,
@@ -2531,7 +2531,7 @@
       ]
     },
     {
-      "name": "Underline",
+      "text": "Underline",
       "id": "underline",
       "unicode": "f0cd",
       "created": 2,
@@ -2540,7 +2540,7 @@
       ]
     },
     {
-      "name": "table",
+      "text": "table",
       "id": "table",
       "unicode": "f0ce",
       "created": 2,
@@ -2554,7 +2554,7 @@
       ]
     },
     {
-      "name": "magic",
+      "text": "magic",
       "id": "magic",
       "unicode": "f0d0",
       "created": 2,
@@ -2568,7 +2568,7 @@
       ]
     },
     {
-      "name": "truck",
+      "text": "truck",
       "id": "truck",
       "unicode": "f0d1",
       "created": 2,
@@ -2581,7 +2581,7 @@
       ]
     },
     {
-      "name": "Pinterest",
+      "text": "Pinterest",
       "id": "pinterest",
       "unicode": "f0d2",
       "created": 2,
@@ -2590,7 +2590,7 @@
       ]
     },
     {
-      "name": "Pinterest Square",
+      "text": "Pinterest Square",
       "id": "pinterest-square",
       "unicode": "f0d3",
       "created": 2,
@@ -2599,7 +2599,7 @@
       ]
     },
     {
-      "name": "Google Plus Square",
+      "text": "Google Plus Square",
       "id": "google-plus-square",
       "unicode": "f0d4",
       "created": 2,
@@ -2611,7 +2611,7 @@
       ]
     },
     {
-      "name": "Google Plus",
+      "text": "Google Plus",
       "id": "google-plus",
       "unicode": "f0d5",
       "created": 2,
@@ -2623,7 +2623,7 @@
       ]
     },
     {
-      "name": "Money",
+      "text": "Money",
       "id": "money",
       "unicode": "f0d6",
       "created": 2,
@@ -2641,7 +2641,7 @@
       ]
     },
     {
-      "name": "Caret Down",
+      "text": "Caret Down",
       "id": "caret-down",
       "unicode": "f0d7",
       "created": 2,
@@ -2656,7 +2656,7 @@
       ]
     },
     {
-      "name": "Caret Up",
+      "text": "Caret Up",
       "id": "caret-up",
       "unicode": "f0d8",
       "created": 2,
@@ -2668,7 +2668,7 @@
       ]
     },
     {
-      "name": "Caret Left",
+      "text": "Caret Left",
       "id": "caret-left",
       "unicode": "f0d9",
       "created": 2,
@@ -2682,7 +2682,7 @@
       ]
     },
     {
-      "name": "Caret Right",
+      "text": "Caret Right",
       "id": "caret-right",
       "unicode": "f0da",
       "created": 2,
@@ -2696,7 +2696,7 @@
       ]
     },
     {
-      "name": "Columns",
+      "text": "Columns",
       "id": "columns",
       "unicode": "f0db",
       "created": 2,
@@ -2709,7 +2709,7 @@
       ]
     },
     {
-      "name": "Sort",
+      "text": "Sort",
       "id": "sort",
       "unicode": "f0dc",
       "created": 2,
@@ -2724,7 +2724,7 @@
       ]
     },
     {
-      "name": "Sort Descending",
+      "text": "Sort Descending",
       "id": "sort-desc",
       "unicode": "f0dd",
       "created": 2,
@@ -2741,7 +2741,7 @@
       ]
     },
     {
-      "name": "Sort Ascending",
+      "text": "Sort Ascending",
       "id": "sort-asc",
       "unicode": "f0de",
       "created": 2,
@@ -2753,7 +2753,7 @@
       ]
     },
     {
-      "name": "Envelope",
+      "text": "Envelope",
       "id": "envelope",
       "unicode": "f0e0",
       "created": 2,
@@ -2770,7 +2770,7 @@
       ]
     },
     {
-      "name": "LinkedIn",
+      "text": "LinkedIn",
       "id": "linkedin",
       "unicode": "f0e1",
       "created": 2,
@@ -2779,7 +2779,7 @@
       ]
     },
     {
-      "name": "Undo",
+      "text": "Undo",
       "id": "undo",
       "unicode": "f0e2",
       "created": 2,
@@ -2794,7 +2794,7 @@
       ]
     },
     {
-      "name": "Gavel",
+      "text": "Gavel",
       "id": "gavel",
       "unicode": "f0e3",
       "created": 2,
@@ -2811,7 +2811,7 @@
       ]
     },
     {
-      "name": "Tachometer",
+      "text": "Tachometer",
       "id": "tachometer",
       "unicode": "f0e4",
       "created": 2,
@@ -2827,7 +2827,7 @@
       ]
     },
     {
-      "name": "comment-o",
+      "text": "comment-o",
       "id": "comment-o",
       "unicode": "f0e5",
       "created": 2,
@@ -2840,7 +2840,7 @@
       ]
     },
     {
-      "name": "comments-o",
+      "text": "comments-o",
       "id": "comments-o",
       "unicode": "f0e6",
       "created": 2,
@@ -2854,7 +2854,7 @@
       ]
     },
     {
-      "name": "Lightning Bolt",
+      "text": "Lightning Bolt",
       "id": "bolt",
       "unicode": "f0e7",
       "created": 2,
@@ -2870,7 +2870,7 @@
       ]
     },
     {
-      "name": "Sitemap",
+      "text": "Sitemap",
       "id": "sitemap",
       "unicode": "f0e8",
       "created": 2,
@@ -2884,7 +2884,7 @@
       ]
     },
     {
-      "name": "Umbrella",
+      "text": "Umbrella",
       "id": "umbrella",
       "unicode": "f0e9",
       "created": 2,
@@ -2893,7 +2893,7 @@
       ]
     },
     {
-      "name": "Clipboard",
+      "text": "Clipboard",
       "id": "clipboard",
       "unicode": "f0ea",
       "created": 2,
@@ -2908,7 +2908,7 @@
       ]
     },
     {
-      "name": "Lightbulb Outlined",
+      "text": "Lightbulb Outlined",
       "id": "lightbulb-o",
       "unicode": "f0eb",
       "created": 3,
@@ -2921,7 +2921,7 @@
       ]
     },
     {
-      "name": "Exchange",
+      "text": "Exchange",
       "id": "exchange",
       "unicode": "f0ec",
       "created": 3,
@@ -2935,7 +2935,7 @@
       ]
     },
     {
-      "name": "Cloud Download",
+      "text": "Cloud Download",
       "id": "cloud-download",
       "unicode": "f0ed",
       "created": 3,
@@ -2947,7 +2947,7 @@
       ]
     },
     {
-      "name": "Cloud Upload",
+      "text": "Cloud Upload",
       "id": "cloud-upload",
       "unicode": "f0ee",
       "created": 3,
@@ -2959,7 +2959,7 @@
       ]
     },
     {
-      "name": "user-md",
+      "text": "user-md",
       "id": "user-md",
       "unicode": "f0f0",
       "created": 2,
@@ -2974,7 +2974,7 @@
       ]
     },
     {
-      "name": "Stethoscope",
+      "text": "Stethoscope",
       "id": "stethoscope",
       "unicode": "f0f1",
       "created": 3,
@@ -2983,7 +2983,7 @@
       ]
     },
     {
-      "name": "Suitcase",
+      "text": "Suitcase",
       "id": "suitcase",
       "unicode": "f0f2",
       "created": 3,
@@ -2999,7 +2999,7 @@
       ]
     },
     {
-      "name": "Bell Outlined",
+      "text": "Bell Outlined",
       "id": "bell-o",
       "unicode": "f0a2",
       "created": 3,
@@ -3013,7 +3013,7 @@
       ]
     },
     {
-      "name": "Coffee",
+      "text": "Coffee",
       "id": "coffee",
       "unicode": "f0f4",
       "created": 3,
@@ -3030,7 +3030,7 @@
       ]
     },
     {
-      "name": "Cutlery",
+      "text": "Cutlery",
       "id": "cutlery",
       "unicode": "f0f5",
       "created": 3,
@@ -3047,7 +3047,7 @@
       ]
     },
     {
-      "name": "File Text Outlined",
+      "text": "File Text Outlined",
       "id": "file-text-o",
       "unicode": "f0f6",
       "created": 3,
@@ -3063,7 +3063,7 @@
       ]
     },
     {
-      "name": "Building Outlined",
+      "text": "Building Outlined",
       "id": "building-o",
       "unicode": "f0f7",
       "created": 3,
@@ -3079,7 +3079,7 @@
       ]
     },
     {
-      "name": "hospital Outlined",
+      "text": "hospital Outlined",
       "id": "hospital-o",
       "unicode": "f0f8",
       "created": 3,
@@ -3091,7 +3091,7 @@
       ]
     },
     {
-      "name": "ambulance",
+      "text": "ambulance",
       "id": "ambulance",
       "unicode": "f0f9",
       "created": 3,
@@ -3105,7 +3105,7 @@
       ]
     },
     {
-      "name": "medkit",
+      "text": "medkit",
       "id": "medkit",
       "unicode": "f0fa",
       "created": 3,
@@ -3121,7 +3121,7 @@
       ]
     },
     {
-      "name": "fighter-jet",
+      "text": "fighter-jet",
       "id": "fighter-jet",
       "unicode": "f0fb",
       "created": 3,
@@ -3139,7 +3139,7 @@
       ]
     },
     {
-      "name": "beer",
+      "text": "beer",
       "id": "beer",
       "unicode": "f0fc",
       "created": 3,
@@ -3156,7 +3156,7 @@
       ]
     },
     {
-      "name": "H Square",
+      "text": "H Square",
       "id": "h-square",
       "unicode": "f0fd",
       "created": 3,
@@ -3169,7 +3169,7 @@
       ]
     },
     {
-      "name": "Plus Square",
+      "text": "Plus Square",
       "id": "plus-square",
       "unicode": "f0fe",
       "created": 3,
@@ -3186,7 +3186,7 @@
       ]
     },
     {
-      "name": "Angle Double Left",
+      "text": "Angle Double Left",
       "id": "angle-double-left",
       "unicode": "f100",
       "created": 3,
@@ -3201,7 +3201,7 @@
       ]
     },
     {
-      "name": "Angle Double Right",
+      "text": "Angle Double Right",
       "id": "angle-double-right",
       "unicode": "f101",
       "created": 3,
@@ -3216,7 +3216,7 @@
       ]
     },
     {
-      "name": "Angle Double Up",
+      "text": "Angle Double Up",
       "id": "angle-double-up",
       "unicode": "f102",
       "created": 3,
@@ -3225,7 +3225,7 @@
       ]
     },
     {
-      "name": "Angle Double Down",
+      "text": "Angle Double Down",
       "id": "angle-double-down",
       "unicode": "f103",
       "created": 3,
@@ -3234,7 +3234,7 @@
       ]
     },
     {
-      "name": "angle-left",
+      "text": "angle-left",
       "id": "angle-left",
       "unicode": "f104",
       "created": 3,
@@ -3247,7 +3247,7 @@
       ]
     },
     {
-      "name": "angle-right",
+      "text": "angle-right",
       "id": "angle-right",
       "unicode": "f105",
       "created": 3,
@@ -3260,7 +3260,7 @@
       ]
     },
     {
-      "name": "angle-up",
+      "text": "angle-up",
       "id": "angle-up",
       "unicode": "f106",
       "created": 3,
@@ -3269,7 +3269,7 @@
       ]
     },
     {
-      "name": "angle-down",
+      "text": "angle-down",
       "id": "angle-down",
       "unicode": "f107",
       "created": 3,
@@ -3278,7 +3278,7 @@
       ]
     },
     {
-      "name": "Desktop",
+      "text": "Desktop",
       "id": "desktop",
       "unicode": "f108",
       "created": 3,
@@ -3295,7 +3295,7 @@
       ]
     },
     {
-      "name": "Laptop",
+      "text": "Laptop",
       "id": "laptop",
       "unicode": "f109",
       "created": 3,
@@ -3309,7 +3309,7 @@
       ]
     },
     {
-      "name": "tablet",
+      "text": "tablet",
       "id": "tablet",
       "unicode": "f10a",
       "created": 3,
@@ -3322,7 +3322,7 @@
       ]
     },
     {
-      "name": "Mobile Phone",
+      "text": "Mobile Phone",
       "id": "mobile",
       "unicode": "f10b",
       "created": 3,
@@ -3342,7 +3342,7 @@
       ]
     },
     {
-      "name": "Circle Outlined",
+      "text": "Circle Outlined",
       "id": "circle-o",
       "unicode": "f10c",
       "created": 3,
@@ -3352,7 +3352,7 @@
       ]
     },
     {
-      "name": "quote-left",
+      "text": "quote-left",
       "id": "quote-left",
       "unicode": "f10d",
       "created": 3,
@@ -3361,7 +3361,7 @@
       ]
     },
     {
-      "name": "quote-right",
+      "text": "quote-right",
       "id": "quote-right",
       "unicode": "f10e",
       "created": 3,
@@ -3370,7 +3370,7 @@
       ]
     },
     {
-      "name": "Spinner",
+      "text": "Spinner",
       "id": "spinner",
       "unicode": "f110",
       "created": 3,
@@ -3384,7 +3384,7 @@
       ]
     },
     {
-      "name": "Circle",
+      "text": "Circle",
       "id": "circle",
       "unicode": "f111",
       "created": 3,
@@ -3398,7 +3398,7 @@
       ]
     },
     {
-      "name": "Reply",
+      "text": "Reply",
       "id": "reply",
       "unicode": "f112",
       "created": 3,
@@ -3410,7 +3410,7 @@
       ]
     },
     {
-      "name": "GitHub Alt",
+      "text": "GitHub Alt",
       "id": "github-alt",
       "unicode": "f113",
       "created": 3,
@@ -3422,7 +3422,7 @@
       ]
     },
     {
-      "name": "Folder Outlined",
+      "text": "Folder Outlined",
       "id": "folder-o",
       "unicode": "f114",
       "created": 3,
@@ -3431,7 +3431,7 @@
       ]
     },
     {
-      "name": "Folder Open Outlined",
+      "text": "Folder Open Outlined",
       "id": "folder-open-o",
       "unicode": "f115",
       "created": 3,
@@ -3440,7 +3440,7 @@
       ]
     },
     {
-      "name": "Smile Outlined",
+      "text": "Smile Outlined",
       "id": "smile-o",
       "unicode": "f118",
       "created": 3.1,
@@ -3456,7 +3456,7 @@
       ]
     },
     {
-      "name": "Frown Outlined",
+      "text": "Frown Outlined",
       "id": "frown-o",
       "unicode": "f119",
       "created": 3.1,
@@ -3471,7 +3471,7 @@
       ]
     },
     {
-      "name": "Meh Outlined",
+      "text": "Meh Outlined",
       "id": "meh-o",
       "unicode": "f11a",
       "created": 3.1,
@@ -3485,7 +3485,7 @@
       ]
     },
     {
-      "name": "Gamepad",
+      "text": "Gamepad",
       "id": "gamepad",
       "unicode": "f11b",
       "created": 3.1,
@@ -3497,7 +3497,7 @@
       ]
     },
     {
-      "name": "Keyboard Outlined",
+      "text": "Keyboard Outlined",
       "id": "keyboard-o",
       "unicode": "f11c",
       "created": 3.1,
@@ -3510,7 +3510,7 @@
       ]
     },
     {
-      "name": "Flag Outlined",
+      "text": "Flag Outlined",
       "id": "flag-o",
       "unicode": "f11d",
       "created": 3.1,
@@ -3523,7 +3523,7 @@
       ]
     },
     {
-      "name": "flag-checkered",
+      "text": "flag-checkered",
       "id": "flag-checkered",
       "unicode": "f11e",
       "created": 3.1,
@@ -3537,7 +3537,7 @@
       ]
     },
     {
-      "name": "Terminal",
+      "text": "Terminal",
       "id": "terminal",
       "unicode": "f120",
       "created": 3.1,
@@ -3551,7 +3551,7 @@
       ]
     },
     {
-      "name": "Code",
+      "text": "Code",
       "id": "code",
       "unicode": "f121",
       "created": 3.1,
@@ -3564,7 +3564,7 @@
       ]
     },
     {
-      "name": "reply-all",
+      "text": "reply-all",
       "id": "reply-all",
       "unicode": "f122",
       "created": 3.1,
@@ -3576,7 +3576,7 @@
       ]
     },
     {
-      "name": "Star Half Outlined",
+      "text": "Star Half Outlined",
       "id": "star-half-o",
       "unicode": "f123",
       "created": 3.1,
@@ -3595,7 +3595,7 @@
       ]
     },
     {
-      "name": "location-arrow",
+      "text": "location-arrow",
       "id": "location-arrow",
       "unicode": "f124",
       "created": 3.1,
@@ -3612,7 +3612,7 @@
       ]
     },
     {
-      "name": "crop",
+      "text": "crop",
       "id": "crop",
       "unicode": "f125",
       "created": 3.1,
@@ -3621,7 +3621,7 @@
       ]
     },
     {
-      "name": "code-fork",
+      "text": "code-fork",
       "id": "code-fork",
       "unicode": "f126",
       "created": 3.1,
@@ -3640,7 +3640,7 @@
       ]
     },
     {
-      "name": "Chain Broken",
+      "text": "Chain Broken",
       "id": "chain-broken",
       "unicode": "f127",
       "created": 3.1,
@@ -3655,7 +3655,7 @@
       ]
     },
     {
-      "name": "Question",
+      "text": "Question",
       "id": "question",
       "unicode": "f128",
       "created": 3.1,
@@ -3670,7 +3670,7 @@
       ]
     },
     {
-      "name": "Info",
+      "text": "Info",
       "id": "info",
       "unicode": "f129",
       "created": 3.1,
@@ -3685,7 +3685,7 @@
       ]
     },
     {
-      "name": "exclamation",
+      "text": "exclamation",
       "id": "exclamation",
       "unicode": "f12a",
       "created": 3.1,
@@ -3702,7 +3702,7 @@
       ]
     },
     {
-      "name": "superscript",
+      "text": "superscript",
       "id": "superscript",
       "unicode": "f12b",
       "created": 3.1,
@@ -3714,7 +3714,7 @@
       ]
     },
     {
-      "name": "subscript",
+      "text": "subscript",
       "id": "subscript",
       "unicode": "f12c",
       "created": 3.1,
@@ -3723,7 +3723,7 @@
       ]
     },
     {
-      "name": "eraser",
+      "text": "eraser",
       "id": "eraser",
       "unicode": "f12d",
       "created": 3.1,
@@ -3733,7 +3733,7 @@
       ]
     },
     {
-      "name": "Puzzle Piece",
+      "text": "Puzzle Piece",
       "id": "puzzle-piece",
       "unicode": "f12e",
       "created": 3.1,
@@ -3747,7 +3747,7 @@
       ]
     },
     {
-      "name": "microphone",
+      "text": "microphone",
       "id": "microphone",
       "unicode": "f130",
       "created": 3.1,
@@ -3761,7 +3761,7 @@
       ]
     },
     {
-      "name": "Microphone Slash",
+      "text": "Microphone Slash",
       "id": "microphone-slash",
       "unicode": "f131",
       "created": 3.1,
@@ -3776,7 +3776,7 @@
       ]
     },
     {
-      "name": "shield",
+      "text": "shield",
       "id": "shield",
       "unicode": "f132",
       "created": 3.1,
@@ -3790,7 +3790,7 @@
       ]
     },
     {
-      "name": "calendar-o",
+      "text": "calendar-o",
       "id": "calendar-o",
       "unicode": "f133",
       "created": 3.1,
@@ -3804,7 +3804,7 @@
       ]
     },
     {
-      "name": "fire-extinguisher",
+      "text": "fire-extinguisher",
       "id": "fire-extinguisher",
       "unicode": "f134",
       "created": 3.1,
@@ -3813,7 +3813,7 @@
       ]
     },
     {
-      "name": "rocket",
+      "text": "rocket",
       "id": "rocket",
       "unicode": "f135",
       "created": 3.1,
@@ -3826,7 +3826,7 @@
       ]
     },
     {
-      "name": "MaxCDN",
+      "text": "MaxCDN",
       "id": "maxcdn",
       "unicode": "f136",
       "created": 3.1,
@@ -3835,7 +3835,7 @@
       ]
     },
     {
-      "name": "Chevron Circle Left",
+      "text": "Chevron Circle Left",
       "id": "chevron-circle-left",
       "unicode": "f137",
       "created": 3.1,
@@ -3848,7 +3848,7 @@
       ]
     },
     {
-      "name": "Chevron Circle Right",
+      "text": "Chevron Circle Right",
       "id": "chevron-circle-right",
       "unicode": "f138",
       "created": 3.1,
@@ -3861,7 +3861,7 @@
       ]
     },
     {
-      "name": "Chevron Circle Up",
+      "text": "Chevron Circle Up",
       "id": "chevron-circle-up",
       "unicode": "f139",
       "created": 3.1,
@@ -3870,7 +3870,7 @@
       ]
     },
     {
-      "name": "Chevron Circle Down",
+      "text": "Chevron Circle Down",
       "id": "chevron-circle-down",
       "unicode": "f13a",
       "created": 3.1,
@@ -3884,7 +3884,7 @@
       ]
     },
     {
-      "name": "HTML 5 Logo",
+      "text": "HTML 5 Logo",
       "id": "html5",
       "unicode": "f13b",
       "created": 3.1,
@@ -3897,7 +3897,7 @@
       ]
     },
     {
-      "name": "CSS 3 Logo",
+      "text": "CSS 3 Logo",
       "id": "css3",
       "unicode": "f13c",
       "created": 3.1,
@@ -3909,7 +3909,7 @@
       ]
     },
     {
-      "name": "Anchor",
+      "text": "Anchor",
       "id": "anchor",
       "unicode": "f13d",
       "created": 3.1,
@@ -3921,7 +3921,7 @@
       ]
     },
     {
-      "name": "Unlock Alt",
+      "text": "Unlock Alt",
       "id": "unlock-alt",
       "unicode": "f13e",
       "created": 3.1,
@@ -3935,7 +3935,7 @@
       ]
     },
     {
-      "name": "Bullseye",
+      "text": "Bullseye",
       "id": "bullseye",
       "unicode": "f140",
       "created": 3.1,
@@ -3947,7 +3947,7 @@
       ]
     },
     {
-      "name": "Ellipsis Horizontal",
+      "text": "Ellipsis Horizontal",
       "id": "ellipsis-h",
       "unicode": "f141",
       "created": 3.1,
@@ -3959,7 +3959,7 @@
       ]
     },
     {
-      "name": "Ellipsis Vertical",
+      "text": "Ellipsis Vertical",
       "id": "ellipsis-v",
       "unicode": "f142",
       "created": 3.1,
@@ -3971,7 +3971,7 @@
       ]
     },
     {
-      "name": "RSS Square",
+      "text": "RSS Square",
       "id": "rss-square",
       "unicode": "f143",
       "created": 3.1,
@@ -3984,7 +3984,7 @@
       ]
     },
     {
-      "name": "Play Circle",
+      "text": "Play Circle",
       "id": "play-circle",
       "unicode": "f144",
       "created": 3.1,
@@ -3997,7 +3997,7 @@
       ]
     },
     {
-      "name": "Ticket",
+      "text": "Ticket",
       "id": "ticket",
       "unicode": "f145",
       "created": 3.1,
@@ -4011,7 +4011,7 @@
       ]
     },
     {
-      "name": "Minus Square",
+      "text": "Minus Square",
       "id": "minus-square",
       "unicode": "f146",
       "created": 3.1,
@@ -4030,7 +4030,7 @@
       ]
     },
     {
-      "name": "Minus Square Outlined",
+      "text": "Minus Square Outlined",
       "id": "minus-square-o",
       "unicode": "f147",
       "created": 3.1,
@@ -4049,7 +4049,7 @@
       ]
     },
     {
-      "name": "Level Up",
+      "text": "Level Up",
       "id": "level-up",
       "unicode": "f148",
       "created": 3.1,
@@ -4058,7 +4058,7 @@
       ]
     },
     {
-      "name": "Level Down",
+      "text": "Level Down",
       "id": "level-down",
       "unicode": "f149",
       "created": 3.1,
@@ -4067,7 +4067,7 @@
       ]
     },
     {
-      "name": "Check Square",
+      "text": "Check Square",
       "id": "check-square",
       "unicode": "f14a",
       "created": 3.1,
@@ -4085,7 +4085,7 @@
       ]
     },
     {
-      "name": "Pencil Square",
+      "text": "Pencil Square",
       "id": "pencil-square",
       "unicode": "f14b",
       "created": 3.1,
@@ -4099,7 +4099,7 @@
       ]
     },
     {
-      "name": "External Link Square",
+      "text": "External Link Square",
       "id": "external-link-square",
       "unicode": "f14c",
       "created": 3.1,
@@ -4112,7 +4112,7 @@
       ]
     },
     {
-      "name": "Share Square",
+      "text": "Share Square",
       "id": "share-square",
       "unicode": "f14d",
       "created": 3.1,
@@ -4125,7 +4125,7 @@
       ]
     },
     {
-      "name": "Compass",
+      "text": "Compass",
       "id": "compass",
       "unicode": "f14e",
       "created": 3.2,
@@ -4140,7 +4140,7 @@
       ]
     },
     {
-      "name": "Caret Square Outlined Down",
+      "text": "Caret Square Outlined Down",
       "id": "caret-square-o-down",
       "unicode": "f150",
       "created": 3.2,
@@ -4158,7 +4158,7 @@
       ]
     },
     {
-      "name": "Caret Square Outlined Up",
+      "text": "Caret Square Outlined Up",
       "id": "caret-square-o-up",
       "unicode": "f151",
       "created": 3.2,
@@ -4171,7 +4171,7 @@
       ]
     },
     {
-      "name": "Caret Square Outlined Right",
+      "text": "Caret Square Outlined Right",
       "id": "caret-square-o-right",
       "unicode": "f152",
       "created": 3.2,
@@ -4188,7 +4188,7 @@
       ]
     },
     {
-      "name": "Euro (EUR)",
+      "text": "Euro (EUR)",
       "id": "eur",
       "unicode": "f153",
       "created": 3.2,
@@ -4200,7 +4200,7 @@
       ]
     },
     {
-      "name": "GBP",
+      "text": "GBP",
       "id": "gbp",
       "unicode": "f154",
       "created": 3.2,
@@ -4209,7 +4209,7 @@
       ]
     },
     {
-      "name": "US Dollar",
+      "text": "US Dollar",
       "id": "usd",
       "unicode": "f155",
       "created": 3.2,
@@ -4221,7 +4221,7 @@
       ]
     },
     {
-      "name": "Indian Rupee (INR)",
+      "text": "Indian Rupee (INR)",
       "id": "inr",
       "unicode": "f156",
       "created": 3.2,
@@ -4233,7 +4233,7 @@
       ]
     },
     {
-      "name": "Japanese Yen (JPY)",
+      "text": "Japanese Yen (JPY)",
       "id": "jpy",
       "unicode": "f157",
       "created": 3.2,
@@ -4247,7 +4247,7 @@
       ]
     },
     {
-      "name": "Russian Ruble (RUB)",
+      "text": "Russian Ruble (RUB)",
       "id": "rub",
       "unicode": "f158",
       "created": 4,
@@ -4260,7 +4260,7 @@
       ]
     },
     {
-      "name": "Korean Won (KRW)",
+      "text": "Korean Won (KRW)",
       "id": "krw",
       "unicode": "f159",
       "created": 3.2,
@@ -4272,7 +4272,7 @@
       ]
     },
     {
-      "name": "Bitcoin (BTC)",
+      "text": "Bitcoin (BTC)",
       "id": "btc",
       "unicode": "f15a",
       "created": 3.2,
@@ -4285,7 +4285,7 @@
       ]
     },
     {
-      "name": "File",
+      "text": "File",
       "id": "file",
       "unicode": "f15b",
       "created": 3.2,
@@ -4301,7 +4301,7 @@
       ]
     },
     {
-      "name": "File Text",
+      "text": "File Text",
       "id": "file-text",
       "unicode": "f15c",
       "created": 3.2,
@@ -4317,7 +4317,7 @@
       ]
     },
     {
-      "name": "Sort Alpha Ascending",
+      "text": "Sort Alpha Ascending",
       "id": "sort-alpha-asc",
       "unicode": "f15d",
       "created": 3.2,
@@ -4326,7 +4326,7 @@
       ]
     },
     {
-      "name": "Sort Alpha Descending",
+      "text": "Sort Alpha Descending",
       "id": "sort-alpha-desc",
       "unicode": "f15e",
       "created": 3.2,
@@ -4335,7 +4335,7 @@
       ]
     },
     {
-      "name": "Sort Amount Ascending",
+      "text": "Sort Amount Ascending",
       "id": "sort-amount-asc",
       "unicode": "f160",
       "created": 3.2,
@@ -4344,7 +4344,7 @@
       ]
     },
     {
-      "name": "Sort Amount Descending",
+      "text": "Sort Amount Descending",
       "id": "sort-amount-desc",
       "unicode": "f161",
       "created": 3.2,
@@ -4353,7 +4353,7 @@
       ]
     },
     {
-      "name": "Sort Numeric Ascending",
+      "text": "Sort Numeric Ascending",
       "id": "sort-numeric-asc",
       "unicode": "f162",
       "created": 3.2,
@@ -4365,7 +4365,7 @@
       ]
     },
     {
-      "name": "Sort Numeric Descending",
+      "text": "Sort Numeric Descending",
       "id": "sort-numeric-desc",
       "unicode": "f163",
       "created": 3.2,
@@ -4377,7 +4377,7 @@
       ]
     },
     {
-      "name": "thumbs-up",
+      "text": "thumbs-up",
       "id": "thumbs-up",
       "unicode": "f164",
       "created": 3.2,
@@ -4394,7 +4394,7 @@
       ]
     },
     {
-      "name": "thumbs-down",
+      "text": "thumbs-down",
       "id": "thumbs-down",
       "unicode": "f165",
       "created": 3.2,
@@ -4410,7 +4410,7 @@
       ]
     },
     {
-      "name": "YouTube Square",
+      "text": "YouTube Square",
       "id": "youtube-square",
       "unicode": "f166",
       "created": 3.2,
@@ -4423,7 +4423,7 @@
       ]
     },
     {
-      "name": "YouTube",
+      "text": "YouTube",
       "id": "youtube",
       "unicode": "f167",
       "created": 3.2,
@@ -4436,7 +4436,7 @@
       ]
     },
     {
-      "name": "Xing",
+      "text": "Xing",
       "id": "xing",
       "unicode": "f168",
       "created": 3.2,
@@ -4445,7 +4445,7 @@
       ]
     },
     {
-      "name": "Xing Square",
+      "text": "Xing Square",
       "id": "xing-square",
       "unicode": "f169",
       "created": 3.2,
@@ -4454,7 +4454,7 @@
       ]
     },
     {
-      "name": "YouTube Play",
+      "text": "YouTube Play",
       "id": "youtube-play",
       "unicode": "f16a",
       "created": 3.2,
@@ -4468,7 +4468,7 @@
       ]
     },
     {
-      "name": "Dropbox",
+      "text": "Dropbox",
       "id": "dropbox",
       "unicode": "f16b",
       "created": 3.2,
@@ -4477,7 +4477,7 @@
       ]
     },
     {
-      "name": "Stack Overflow",
+      "text": "Stack Overflow",
       "id": "stack-overflow",
       "unicode": "f16c",
       "created": 3.2,
@@ -4486,7 +4486,7 @@
       ]
     },
     {
-      "name": "Instagram",
+      "text": "Instagram",
       "id": "instagram",
       "unicode": "f16d",
       "created": 3.2,
@@ -4495,7 +4495,7 @@
       ]
     },
     {
-      "name": "Flickr",
+      "text": "Flickr",
       "id": "flickr",
       "unicode": "f16e",
       "created": 3.2,
@@ -4504,7 +4504,7 @@
       ]
     },
     {
-      "name": "App.net",
+      "text": "App.net",
       "id": "adn",
       "unicode": "f170",
       "created": 3.2,
@@ -4513,7 +4513,7 @@
       ]
     },
     {
-      "name": "Bitbucket",
+      "text": "Bitbucket",
       "id": "bitbucket",
       "unicode": "f171",
       "created": 3.2,
@@ -4525,7 +4525,7 @@
       ]
     },
     {
-      "name": "Bitbucket Square",
+      "text": "Bitbucket Square",
       "id": "bitbucket-square",
       "unicode": "f172",
       "created": 3.2,
@@ -4537,7 +4537,7 @@
       ]
     },
     {
-      "name": "Tumblr",
+      "text": "Tumblr",
       "id": "tumblr",
       "unicode": "f173",
       "created": 3.2,
@@ -4546,7 +4546,7 @@
       ]
     },
     {
-      "name": "Tumblr Square",
+      "text": "Tumblr Square",
       "id": "tumblr-square",
       "unicode": "f174",
       "created": 3.2,
@@ -4555,7 +4555,7 @@
       ]
     },
     {
-      "name": "Long Arrow Down",
+      "text": "Long Arrow Down",
       "id": "long-arrow-down",
       "unicode": "f175",
       "created": 3.2,
@@ -4564,7 +4564,7 @@
       ]
     },
     {
-      "name": "Long Arrow Up",
+      "text": "Long Arrow Up",
       "id": "long-arrow-up",
       "unicode": "f176",
       "created": 3.2,
@@ -4573,7 +4573,7 @@
       ]
     },
     {
-      "name": "Long Arrow Left",
+      "text": "Long Arrow Left",
       "id": "long-arrow-left",
       "unicode": "f177",
       "created": 3.2,
@@ -4586,7 +4586,7 @@
       ]
     },
     {
-      "name": "Long Arrow Right",
+      "text": "Long Arrow Right",
       "id": "long-arrow-right",
       "unicode": "f178",
       "created": 3.2,
@@ -4595,7 +4595,7 @@
       ]
     },
     {
-      "name": "Apple",
+      "text": "Apple",
       "id": "apple",
       "unicode": "f179",
       "created": 3.2,
@@ -4607,7 +4607,7 @@
       ]
     },
     {
-      "name": "Windows",
+      "text": "Windows",
       "id": "windows",
       "unicode": "f17a",
       "created": 3.2,
@@ -4619,7 +4619,7 @@
       ]
     },
     {
-      "name": "Android",
+      "text": "Android",
       "id": "android",
       "unicode": "f17b",
       "created": 3.2,
@@ -4628,7 +4628,7 @@
       ]
     },
     {
-      "name": "Linux",
+      "text": "Linux",
       "id": "linux",
       "unicode": "f17c",
       "created": 3.2,
@@ -4640,7 +4640,7 @@
       ]
     },
     {
-      "name": "Dribbble",
+      "text": "Dribbble",
       "id": "dribbble",
       "unicode": "f17d",
       "created": 3.2,
@@ -4649,7 +4649,7 @@
       ]
     },
     {
-      "name": "Skype",
+      "text": "Skype",
       "id": "skype",
       "unicode": "f17e",
       "created": 3.2,
@@ -4658,7 +4658,7 @@
       ]
     },
     {
-      "name": "Foursquare",
+      "text": "Foursquare",
       "id": "foursquare",
       "unicode": "f180",
       "created": 3.2,
@@ -4667,7 +4667,7 @@
       ]
     },
     {
-      "name": "Trello",
+      "text": "Trello",
       "id": "trello",
       "unicode": "f181",
       "created": 3.2,
@@ -4676,7 +4676,7 @@
       ]
     },
     {
-      "name": "Female",
+      "text": "Female",
       "id": "female",
       "unicode": "f182",
       "created": 3.2,
@@ -4691,7 +4691,7 @@
       ]
     },
     {
-      "name": "Male",
+      "text": "Male",
       "id": "male",
       "unicode": "f183",
       "created": 3.2,
@@ -4706,7 +4706,7 @@
       ]
     },
     {
-      "name": "Gratipay (Gittip)",
+      "text": "Gratipay (Gittip)",
       "id": "gratipay",
       "unicode": "f184",
       "created": 3.2,
@@ -4724,7 +4724,7 @@
       ]
     },
     {
-      "name": "Sun Outlined",
+      "text": "Sun Outlined",
       "id": "sun-o",
       "unicode": "f185",
       "created": 3.2,
@@ -4740,7 +4740,7 @@
       ]
     },
     {
-      "name": "Moon Outlined",
+      "text": "Moon Outlined",
       "id": "moon-o",
       "unicode": "f186",
       "created": 3.2,
@@ -4754,7 +4754,7 @@
       ]
     },
     {
-      "name": "Archive",
+      "text": "Archive",
       "id": "archive",
       "unicode": "f187",
       "created": 3.2,
@@ -4767,7 +4767,7 @@
       ]
     },
     {
-      "name": "Bug",
+      "text": "Bug",
       "id": "bug",
       "unicode": "f188",
       "created": 3.2,
@@ -4780,7 +4780,7 @@
       ]
     },
     {
-      "name": "VK",
+      "text": "VK",
       "id": "vk",
       "unicode": "f189",
       "created": 3.2,
@@ -4789,7 +4789,7 @@
       ]
     },
     {
-      "name": "Weibo",
+      "text": "Weibo",
       "id": "weibo",
       "unicode": "f18a",
       "created": 3.2,
@@ -4798,7 +4798,7 @@
       ]
     },
     {
-      "name": "Renren",
+      "text": "Renren",
       "id": "renren",
       "unicode": "f18b",
       "created": 3.2,
@@ -4807,7 +4807,7 @@
       ]
     },
     {
-      "name": "Pagelines",
+      "text": "Pagelines",
       "id": "pagelines",
       "unicode": "f18c",
       "created": 4,
@@ -4824,7 +4824,7 @@
       ]
     },
     {
-      "name": "Stack Exchange",
+      "text": "Stack Exchange",
       "id": "stack-exchange",
       "unicode": "f18d",
       "created": 4,
@@ -4833,7 +4833,7 @@
       ]
     },
     {
-      "name": "Arrow Circle Outlined Right",
+      "text": "Arrow Circle Outlined Right",
       "id": "arrow-circle-o-right",
       "unicode": "f18e",
       "created": 4,
@@ -4846,7 +4846,7 @@
       ]
     },
     {
-      "name": "Arrow Circle Outlined Left",
+      "text": "Arrow Circle Outlined Left",
       "id": "arrow-circle-o-left",
       "unicode": "f190",
       "created": 4,
@@ -4859,7 +4859,7 @@
       ]
     },
     {
-      "name": "Caret Square Outlined Left",
+      "text": "Caret Square Outlined Left",
       "id": "caret-square-o-left",
       "unicode": "f191",
       "created": 4,
@@ -4876,7 +4876,7 @@
       ]
     },
     {
-      "name": "Dot Circle Outlined",
+      "text": "Dot Circle Outlined",
       "id": "dot-circle-o",
       "unicode": "f192",
       "created": 4,
@@ -4891,7 +4891,7 @@
       ]
     },
     {
-      "name": "Wheelchair",
+      "text": "Wheelchair",
       "id": "wheelchair",
       "unicode": "f193",
       "created": 4,
@@ -4908,7 +4908,7 @@
       ]
     },
     {
-      "name": "Vimeo Square",
+      "text": "Vimeo Square",
       "id": "vimeo-square",
       "unicode": "f194",
       "created": 4,
@@ -4917,7 +4917,7 @@
       ]
     },
     {
-      "name": "Turkish Lira (TRY)",
+      "text": "Turkish Lira (TRY)",
       "id": "try",
       "unicode": "f195",
       "created": 4,
@@ -4929,7 +4929,7 @@
       ]
     },
     {
-      "name": "Plus Square Outlined",
+      "text": "Plus Square Outlined",
       "id": "plus-square-o",
       "unicode": "f196",
       "created": 4,
@@ -4945,7 +4945,7 @@
       ]
     },
     {
-      "name": "Space Shuttle",
+      "text": "Space Shuttle",
       "id": "space-shuttle",
       "unicode": "f197",
       "created": 4.1,
@@ -4956,7 +4956,7 @@
       ]
     },
     {
-      "name": "Slack Logo",
+      "text": "Slack Logo",
       "id": "slack",
       "unicode": "f198",
       "created": 4.1,
@@ -4965,7 +4965,7 @@
       ]
     },
     {
-      "name": "Envelope Square",
+      "text": "Envelope Square",
       "id": "envelope-square",
       "unicode": "f199",
       "created": 4.1,
@@ -4974,7 +4974,7 @@
       ]
     },
     {
-      "name": "WordPress Logo",
+      "text": "WordPress Logo",
       "id": "wordpress",
       "unicode": "f19a",
       "created": 4.1,
@@ -4983,7 +4983,7 @@
       ]
     },
     {
-      "name": "OpenID",
+      "text": "OpenID",
       "id": "openid",
       "unicode": "f19b",
       "created": 4.1,
@@ -4992,7 +4992,7 @@
       ]
     },
     {
-      "name": "University",
+      "text": "University",
       "id": "university",
       "unicode": "f19c",
       "created": 4.1,
@@ -5005,7 +5005,7 @@
       ]
     },
     {
-      "name": "Graduation Cap",
+      "text": "Graduation Cap",
       "id": "graduation-cap",
       "unicode": "f19d",
       "created": 4.1,
@@ -5022,7 +5022,7 @@
       ]
     },
     {
-      "name": "Yahoo Logo",
+      "text": "Yahoo Logo",
       "id": "yahoo",
       "unicode": "f19e",
       "created": 4.1,
@@ -5031,7 +5031,7 @@
       ]
     },
     {
-      "name": "Google Logo",
+      "text": "Google Logo",
       "id": "google",
       "unicode": "f1a0",
       "created": 4.1,
@@ -5040,7 +5040,7 @@
       ]
     },
     {
-      "name": "reddit Logo",
+      "text": "reddit Logo",
       "id": "reddit",
       "unicode": "f1a1",
       "created": 4.1,
@@ -5049,7 +5049,7 @@
       ]
     },
     {
-      "name": "reddit Square",
+      "text": "reddit Square",
       "id": "reddit-square",
       "unicode": "f1a2",
       "created": 4.1,
@@ -5058,7 +5058,7 @@
       ]
     },
     {
-      "name": "StumbleUpon Circle",
+      "text": "StumbleUpon Circle",
       "id": "stumbleupon-circle",
       "unicode": "f1a3",
       "created": 4.1,
@@ -5067,7 +5067,7 @@
       ]
     },
     {
-      "name": "StumbleUpon Logo",
+      "text": "StumbleUpon Logo",
       "id": "stumbleupon",
       "unicode": "f1a4",
       "created": 4.1,
@@ -5076,7 +5076,7 @@
       ]
     },
     {
-      "name": "Delicious Logo",
+      "text": "Delicious Logo",
       "id": "delicious",
       "unicode": "f1a5",
       "created": 4.1,
@@ -5085,7 +5085,7 @@
       ]
     },
     {
-      "name": "Digg Logo",
+      "text": "Digg Logo",
       "id": "digg",
       "unicode": "f1a6",
       "created": 4.1,
@@ -5094,7 +5094,7 @@
       ]
     },
     {
-      "name": "Pied Piper Logo",
+      "text": "Pied Piper Logo",
       "id": "pied-piper",
       "unicode": "f1a7",
       "created": 4.1,
@@ -5103,7 +5103,7 @@
       ]
     },
     {
-      "name": "Pied Piper Alternate Logo",
+      "text": "Pied Piper Alternate Logo",
       "id": "pied-piper-alt",
       "unicode": "f1a8",
       "created": 4.1,
@@ -5112,7 +5112,7 @@
       ]
     },
     {
-      "name": "Drupal Logo",
+      "text": "Drupal Logo",
       "id": "drupal",
       "unicode": "f1a9",
       "created": 4.1,
@@ -5121,7 +5121,7 @@
       ]
     },
     {
-      "name": "Joomla Logo",
+      "text": "Joomla Logo",
       "id": "joomla",
       "unicode": "f1aa",
       "created": 4.1,
@@ -5130,7 +5130,7 @@
       ]
     },
     {
-      "name": "Language",
+      "text": "Language",
       "id": "language",
       "unicode": "f1ab",
       "created": 4.1,
@@ -5139,7 +5139,7 @@
       ]
     },
     {
-      "name": "Fax",
+      "text": "Fax",
       "id": "fax",
       "unicode": "f1ac",
       "created": 4.1,
@@ -5148,7 +5148,7 @@
       ]
     },
     {
-      "name": "Building",
+      "text": "Building",
       "id": "building",
       "unicode": "f1ad",
       "created": 4.1,
@@ -5164,7 +5164,7 @@
       ]
     },
     {
-      "name": "Child",
+      "text": "Child",
       "id": "child",
       "unicode": "f1ae",
       "created": 4.1,
@@ -5173,7 +5173,7 @@
       ]
     },
     {
-      "name": "Paw",
+      "text": "Paw",
       "id": "paw",
       "unicode": "f1b0",
       "created": 4.1,
@@ -5185,7 +5185,7 @@
       ]
     },
     {
-      "name": "spoon",
+      "text": "spoon",
       "id": "spoon",
       "unicode": "f1b1",
       "created": 4.1,
@@ -5194,7 +5194,7 @@
       ]
     },
     {
-      "name": "Cube",
+      "text": "Cube",
       "id": "cube",
       "unicode": "f1b2",
       "created": 4.1,
@@ -5203,7 +5203,7 @@
       ]
     },
     {
-      "name": "Cubes",
+      "text": "Cubes",
       "id": "cubes",
       "unicode": "f1b3",
       "created": 4.1,
@@ -5212,7 +5212,7 @@
       ]
     },
     {
-      "name": "Behance",
+      "text": "Behance",
       "id": "behance",
       "unicode": "f1b4",
       "created": 4.1,
@@ -5221,7 +5221,7 @@
       ]
     },
     {
-      "name": "Behance Square",
+      "text": "Behance Square",
       "id": "behance-square",
       "unicode": "f1b5",
       "created": 4.1,
@@ -5230,7 +5230,7 @@
       ]
     },
     {
-      "name": "Steam",
+      "text": "Steam",
       "id": "steam",
       "unicode": "f1b6",
       "created": 4.1,
@@ -5239,7 +5239,7 @@
       ]
     },
     {
-      "name": "Steam Square",
+      "text": "Steam Square",
       "id": "steam-square",
       "unicode": "f1b7",
       "created": 4.1,
@@ -5248,7 +5248,7 @@
       ]
     },
     {
-      "name": "Recycle",
+      "text": "Recycle",
       "id": "recycle",
       "unicode": "f1b8",
       "created": 4.1,
@@ -5257,7 +5257,7 @@
       ]
     },
     {
-      "name": "Car",
+      "text": "Car",
       "id": "car",
       "unicode": "f1b9",
       "created": 4.1,
@@ -5273,7 +5273,7 @@
       ]
     },
     {
-      "name": "Taxi",
+      "text": "Taxi",
       "id": "taxi",
       "unicode": "f1ba",
       "created": 4.1,
@@ -5289,7 +5289,7 @@
       ]
     },
     {
-      "name": "Tree",
+      "text": "Tree",
       "id": "tree",
       "unicode": "f1bb",
       "created": 4.1,
@@ -5298,7 +5298,7 @@
       ]
     },
     {
-      "name": "Spotify",
+      "text": "Spotify",
       "id": "spotify",
       "unicode": "f1bc",
       "created": 4.1,
@@ -5307,7 +5307,7 @@
       ]
     },
     {
-      "name": "deviantART",
+      "text": "deviantART",
       "id": "deviantart",
       "unicode": "f1bd",
       "created": 4.1,
@@ -5316,7 +5316,7 @@
       ]
     },
     {
-      "name": "SoundCloud",
+      "text": "SoundCloud",
       "id": "soundcloud",
       "unicode": "f1be",
       "created": 4.1,
@@ -5325,7 +5325,7 @@
       ]
     },
     {
-      "name": "Database",
+      "text": "Database",
       "id": "database",
       "unicode": "f1c0",
       "created": 4.1,
@@ -5334,7 +5334,7 @@
       ]
     },
     {
-      "name": "PDF File Outlined",
+      "text": "PDF File Outlined",
       "id": "file-pdf-o",
       "unicode": "f1c1",
       "created": 4.1,
@@ -5344,7 +5344,7 @@
       ]
     },
     {
-      "name": "Word File Outlined",
+      "text": "Word File Outlined",
       "id": "file-word-o",
       "unicode": "f1c2",
       "created": 4.1,
@@ -5354,7 +5354,7 @@
       ]
     },
     {
-      "name": "Excel File Outlined",
+      "text": "Excel File Outlined",
       "id": "file-excel-o",
       "unicode": "f1c3",
       "created": 4.1,
@@ -5364,7 +5364,7 @@
       ]
     },
     {
-      "name": "Powerpoint File Outlined",
+      "text": "Powerpoint File Outlined",
       "id": "file-powerpoint-o",
       "unicode": "f1c4",
       "created": 4.1,
@@ -5374,7 +5374,7 @@
       ]
     },
     {
-      "name": "Image File Outlined",
+      "text": "Image File Outlined",
       "id": "file-image-o",
       "unicode": "f1c5",
       "created": 4.1,
@@ -5388,7 +5388,7 @@
       ]
     },
     {
-      "name": "Archive File Outlined",
+      "text": "Archive File Outlined",
       "id": "file-archive-o",
       "unicode": "f1c6",
       "created": 4.1,
@@ -5401,7 +5401,7 @@
       ]
     },
     {
-      "name": "Audio File Outlined",
+      "text": "Audio File Outlined",
       "id": "file-audio-o",
       "unicode": "f1c7",
       "created": 4.1,
@@ -5414,7 +5414,7 @@
       ]
     },
     {
-      "name": "Video File Outlined",
+      "text": "Video File Outlined",
       "id": "file-video-o",
       "unicode": "f1c8",
       "created": 4.1,
@@ -5427,7 +5427,7 @@
       ]
     },
     {
-      "name": "Code File Outlined",
+      "text": "Code File Outlined",
       "id": "file-code-o",
       "unicode": "f1c9",
       "created": 4.1,
@@ -5437,7 +5437,7 @@
       ]
     },
     {
-      "name": "Vine",
+      "text": "Vine",
       "id": "vine",
       "unicode": "f1ca",
       "created": 4.1,
@@ -5446,7 +5446,7 @@
       ]
     },
     {
-      "name": "Codepen",
+      "text": "Codepen",
       "id": "codepen",
       "unicode": "f1cb",
       "created": 4.1,
@@ -5455,7 +5455,7 @@
       ]
     },
     {
-      "name": "jsFiddle",
+      "text": "jsFiddle",
       "id": "jsfiddle",
       "unicode": "f1cc",
       "created": 4.1,
@@ -5464,7 +5464,7 @@
       ]
     },
     {
-      "name": "Life Ring",
+      "text": "Life Ring",
       "id": "life-ring",
       "unicode": "f1cd",
       "created": 4.1,
@@ -5481,7 +5481,7 @@
       ]
     },
     {
-      "name": "Circle Outlined Notched",
+      "text": "Circle Outlined Notched",
       "id": "circle-o-notch",
       "unicode": "f1ce",
       "created": 4.1,
@@ -5491,7 +5491,7 @@
       ]
     },
     {
-      "name": "Rebel Alliance",
+      "text": "Rebel Alliance",
       "id": "rebel",
       "unicode": "f1d0",
       "created": 4.1,
@@ -5503,7 +5503,7 @@
       ]
     },
     {
-      "name": "Galactic Empire",
+      "text": "Galactic Empire",
       "id": "empire",
       "unicode": "f1d1",
       "created": 4.1,
@@ -5515,7 +5515,7 @@
       ]
     },
     {
-      "name": "Git Square",
+      "text": "Git Square",
       "id": "git-square",
       "unicode": "f1d2",
       "created": 4.1,
@@ -5524,7 +5524,7 @@
       ]
     },
     {
-      "name": "Git",
+      "text": "Git",
       "id": "git",
       "unicode": "f1d3",
       "created": 4.1,
@@ -5533,7 +5533,7 @@
       ]
     },
     {
-      "name": "Hacker News",
+      "text": "Hacker News",
       "id": "hacker-news",
       "unicode": "f1d4",
       "created": 4.1,
@@ -5546,7 +5546,7 @@
       ]
     },
     {
-      "name": "Tencent Weibo",
+      "text": "Tencent Weibo",
       "id": "tencent-weibo",
       "unicode": "f1d5",
       "created": 4.1,
@@ -5555,7 +5555,7 @@
       ]
     },
     {
-      "name": "QQ",
+      "text": "QQ",
       "id": "qq",
       "unicode": "f1d6",
       "created": 4.1,
@@ -5564,7 +5564,7 @@
       ]
     },
     {
-      "name": "Weixin (WeChat)",
+      "text": "Weixin (WeChat)",
       "id": "weixin",
       "unicode": "f1d7",
       "created": 4.1,
@@ -5576,7 +5576,7 @@
       ]
     },
     {
-      "name": "Paper Plane",
+      "text": "Paper Plane",
       "id": "paper-plane",
       "unicode": "f1d8",
       "created": 4.1,
@@ -5589,7 +5589,7 @@
       ]
     },
     {
-      "name": "Paper Plane Outlined",
+      "text": "Paper Plane Outlined",
       "id": "paper-plane-o",
       "unicode": "f1d9",
       "created": 4.1,
@@ -5601,7 +5601,7 @@
       ]
     },
     {
-      "name": "History",
+      "text": "History",
       "id": "history",
       "unicode": "f1da",
       "created": 4.1,
@@ -5610,7 +5610,7 @@
       ]
     },
     {
-      "name": "Circle Outlined Thin",
+      "text": "Circle Outlined Thin",
       "id": "circle-thin",
       "unicode": "f1db",
       "created": 4.1,
@@ -5619,7 +5619,7 @@
       ]
     },
     {
-      "name": "header",
+      "text": "header",
       "id": "header",
       "unicode": "f1dc",
       "created": 4.1,
@@ -5631,7 +5631,7 @@
       ]
     },
     {
-      "name": "paragraph",
+      "text": "paragraph",
       "id": "paragraph",
       "unicode": "f1dd",
       "created": 4.1,
@@ -5640,7 +5640,7 @@
       ]
     },
     {
-      "name": "Sliders",
+      "text": "Sliders",
       "id": "sliders",
       "unicode": "f1de",
       "created": 4.1,
@@ -5649,7 +5649,7 @@
       ]
     },
     {
-      "name": "Share Alt",
+      "text": "Share Alt",
       "id": "share-alt",
       "unicode": "f1e0",
       "created": 4.1,
@@ -5659,7 +5659,7 @@
       ]
     },
     {
-      "name": "Share Alt Square",
+      "text": "Share Alt Square",
       "id": "share-alt-square",
       "unicode": "f1e1",
       "created": 4.1,
@@ -5669,7 +5669,7 @@
       ]
     },
     {
-      "name": "Bomb",
+      "text": "Bomb",
       "id": "bomb",
       "unicode": "f1e2",
       "created": 4.1,
@@ -5678,7 +5678,7 @@
       ]
     },
     {
-      "name": "Futbol Outlined",
+      "text": "Futbol Outlined",
       "id": "futbol-o",
       "unicode": "f1e3",
       "created": 4.2,
@@ -5690,7 +5690,7 @@
       ]
     },
     {
-      "name": "TTY",
+      "text": "TTY",
       "id": "tty",
       "unicode": "f1e4",
       "created": 4.2,
@@ -5699,7 +5699,7 @@
       ]
     },
     {
-      "name": "Binoculars",
+      "text": "Binoculars",
       "id": "binoculars",
       "unicode": "f1e5",
       "created": 4.2,
@@ -5708,7 +5708,7 @@
       ]
     },
     {
-      "name": "Plug",
+      "text": "Plug",
       "id": "plug",
       "unicode": "f1e6",
       "created": 4.2,
@@ -5717,7 +5717,7 @@
       ]
     },
     {
-      "name": "Slideshare",
+      "text": "Slideshare",
       "id": "slideshare",
       "unicode": "f1e7",
       "created": 4.2,
@@ -5726,7 +5726,7 @@
       ]
     },
     {
-      "name": "Twitch",
+      "text": "Twitch",
       "id": "twitch",
       "unicode": "f1e8",
       "created": 4.2,
@@ -5735,7 +5735,7 @@
       ]
     },
     {
-      "name": "Yelp",
+      "text": "Yelp",
       "id": "yelp",
       "unicode": "f1e9",
       "created": 4.2,
@@ -5744,7 +5744,7 @@
       ]
     },
     {
-      "name": "Newspaper Outlined",
+      "text": "Newspaper Outlined",
       "id": "newspaper-o",
       "unicode": "f1ea",
       "created": 4.2,
@@ -5756,7 +5756,7 @@
       ]
     },
     {
-      "name": "WiFi",
+      "text": "WiFi",
       "id": "wifi",
       "unicode": "f1eb",
       "created": 4.2,
@@ -5765,7 +5765,7 @@
       ]
     },
     {
-      "name": "Calculator",
+      "text": "Calculator",
       "id": "calculator",
       "unicode": "f1ec",
       "created": 4.2,
@@ -5774,7 +5774,7 @@
       ]
     },
     {
-      "name": "Paypal",
+      "text": "Paypal",
       "id": "paypal",
       "unicode": "f1ed",
       "created": 4.2,
@@ -5784,7 +5784,7 @@
       ]
     },
     {
-      "name": "Google Wallet",
+      "text": "Google Wallet",
       "id": "google-wallet",
       "unicode": "f1ee",
       "created": 4.2,
@@ -5794,7 +5794,7 @@
       ]
     },
     {
-      "name": "Visa Credit Card",
+      "text": "Visa Credit Card",
       "id": "cc-visa",
       "unicode": "f1f0",
       "created": 4.2,
@@ -5804,7 +5804,7 @@
       ]
     },
     {
-      "name": "MasterCard Credit Card",
+      "text": "MasterCard Credit Card",
       "id": "cc-mastercard",
       "unicode": "f1f1",
       "created": 4.2,
@@ -5814,7 +5814,7 @@
       ]
     },
     {
-      "name": "Discover Credit Card",
+      "text": "Discover Credit Card",
       "id": "cc-discover",
       "unicode": "f1f2",
       "created": 4.2,
@@ -5824,7 +5824,7 @@
       ]
     },
     {
-      "name": "American Express Credit Card",
+      "text": "American Express Credit Card",
       "id": "cc-amex",
       "unicode": "f1f3",
       "created": 4.2,
@@ -5837,7 +5837,7 @@
       ]
     },
     {
-      "name": "Paypal Credit Card",
+      "text": "Paypal Credit Card",
       "id": "cc-paypal",
       "unicode": "f1f4",
       "created": 4.2,
@@ -5847,7 +5847,7 @@
       ]
     },
     {
-      "name": "Stripe Credit Card",
+      "text": "Stripe Credit Card",
       "id": "cc-stripe",
       "unicode": "f1f5",
       "created": 4.2,
@@ -5857,7 +5857,7 @@
       ]
     },
     {
-      "name": "Bell Slash",
+      "text": "Bell Slash",
       "id": "bell-slash",
       "unicode": "f1f6",
       "created": 4.2,
@@ -5866,7 +5866,7 @@
       ]
     },
     {
-      "name": "Bell Slash Outlined",
+      "text": "Bell Slash Outlined",
       "id": "bell-slash-o",
       "unicode": "f1f7",
       "created": 4.2,
@@ -5875,7 +5875,7 @@
       ]
     },
     {
-      "name": "Trash",
+      "text": "Trash",
       "id": "trash",
       "unicode": "f1f8",
       "created": 4.2,
@@ -5890,7 +5890,7 @@
       ]
     },
     {
-      "name": "Copyright",
+      "text": "Copyright",
       "id": "copyright",
       "unicode": "f1f9",
       "created": 4.2,
@@ -5899,7 +5899,7 @@
       ]
     },
     {
-      "name": "At",
+      "text": "At",
       "id": "at",
       "unicode": "f1fa",
       "created": 4.2,
@@ -5908,7 +5908,7 @@
       ]
     },
     {
-      "name": "Eyedropper",
+      "text": "Eyedropper",
       "id": "eyedropper",
       "unicode": "f1fb",
       "created": 4.2,
@@ -5917,7 +5917,7 @@
       ]
     },
     {
-      "name": "Paint Brush",
+      "text": "Paint Brush",
       "id": "paint-brush",
       "unicode": "f1fc",
       "created": 4.2,
@@ -5926,7 +5926,7 @@
       ]
     },
     {
-      "name": "Birthday Cake",
+      "text": "Birthday Cake",
       "id": "birthday-cake",
       "unicode": "f1fd",
       "created": 4.2,
@@ -5935,7 +5935,7 @@
       ]
     },
     {
-      "name": "Area Chart",
+      "text": "Area Chart",
       "id": "area-chart",
       "unicode": "f1fe",
       "created": 4.2,
@@ -5949,7 +5949,7 @@
       ]
     },
     {
-      "name": "Pie Chart",
+      "text": "Pie Chart",
       "id": "pie-chart",
       "unicode": "f200",
       "created": 4.2,
@@ -5963,7 +5963,7 @@
       ]
     },
     {
-      "name": "Line Chart",
+      "text": "Line Chart",
       "id": "line-chart",
       "unicode": "f201",
       "created": 4.2,
@@ -5977,7 +5977,7 @@
       ]
     },
     {
-      "name": "last.fm",
+      "text": "last.fm",
       "id": "lastfm",
       "unicode": "f202",
       "created": 4.2,
@@ -5986,7 +5986,7 @@
       ]
     },
     {
-      "name": "last.fm Square",
+      "text": "last.fm Square",
       "id": "lastfm-square",
       "unicode": "f203",
       "created": 4.2,
@@ -5995,7 +5995,7 @@
       ]
     },
     {
-      "name": "Toggle Off",
+      "text": "Toggle Off",
       "id": "toggle-off",
       "unicode": "f204",
       "created": 4.2,
@@ -6004,7 +6004,7 @@
       ]
     },
     {
-      "name": "Toggle On",
+      "text": "Toggle On",
       "id": "toggle-on",
       "unicode": "f205",
       "created": 4.2,
@@ -6013,7 +6013,7 @@
       ]
     },
     {
-      "name": "Bicycle",
+      "text": "Bicycle",
       "id": "bicycle",
       "unicode": "f206",
       "created": 4.2,
@@ -6027,7 +6027,7 @@
       ]
     },
     {
-      "name": "Bus",
+      "text": "Bus",
       "id": "bus",
       "unicode": "f207",
       "created": 4.2,
@@ -6040,7 +6040,7 @@
       ]
     },
     {
-      "name": "ioxhost",
+      "text": "ioxhost",
       "id": "ioxhost",
       "unicode": "f208",
       "created": 4.2,
@@ -6050,7 +6050,7 @@
       ]
     },
     {
-      "name": "AngelList",
+      "text": "AngelList",
       "id": "angellist",
       "unicode": "f209",
       "created": 4.2,
@@ -6059,7 +6059,7 @@
       ]
     },
     {
-      "name": "Closed Captions",
+      "text": "Closed Captions",
       "id": "cc",
       "unicode": "f20a",
       "created": 4.2,
@@ -6068,7 +6068,7 @@
       ]
     },
     {
-      "name": "Shekel (ILS)",
+      "text": "Shekel (ILS)",
       "id": "ils",
       "unicode": "f20b",
       "created": 4.2,
@@ -6081,7 +6081,7 @@
       ]
     },
     {
-      "name": "meanpath",
+      "text": "meanpath",
       "id": "meanpath",
       "unicode": "f20c",
       "created": 4.2,
@@ -6091,7 +6091,7 @@
       ]
     },
     {
-      "name": "BuySellAds",
+      "text": "BuySellAds",
       "id": "buysellads",
       "unicode": "f20d",
       "created": 4.3,
@@ -6101,7 +6101,7 @@
       ]
     },
     {
-      "name": "Connect Develop",
+      "text": "Connect Develop",
       "id": "connectdevelop",
       "unicode": "f20e",
       "created": 4.3,
@@ -6111,7 +6111,7 @@
       ]
     },
     {
-      "name": "DashCube",
+      "text": "DashCube",
       "id": "dashcube",
       "unicode": "f210",
       "created": 4.3,
@@ -6121,7 +6121,7 @@
       ]
     },
     {
-      "name": "Forumbee",
+      "text": "Forumbee",
       "id": "forumbee",
       "unicode": "f211",
       "created": 4.3,
@@ -6131,7 +6131,7 @@
       ]
     },
     {
-      "name": "Leanpub",
+      "text": "Leanpub",
       "id": "leanpub",
       "unicode": "f212",
       "created": 4.3,
@@ -6141,7 +6141,7 @@
       ]
     },
     {
-      "name": "Sellsy",
+      "text": "Sellsy",
       "id": "sellsy",
       "unicode": "f213",
       "created": 4.3,
@@ -6151,7 +6151,7 @@
       ]
     },
     {
-      "name": "Shirts in Bulk",
+      "text": "Shirts in Bulk",
       "id": "shirtsinbulk",
       "unicode": "f214",
       "created": 4.3,
@@ -6161,7 +6161,7 @@
       ]
     },
     {
-      "name": "SimplyBuilt",
+      "text": "SimplyBuilt",
       "id": "simplybuilt",
       "unicode": "f215",
       "created": 4.3,
@@ -6171,7 +6171,7 @@
       ]
     },
     {
-      "name": "skyatlas",
+      "text": "skyatlas",
       "id": "skyatlas",
       "unicode": "f216",
       "created": 4.3,
@@ -6181,7 +6181,7 @@
       ]
     },
     {
-      "name": "Add to Shopping Cart",
+      "text": "Add to Shopping Cart",
       "id": "cart-plus",
       "unicode": "f217",
       "created": 4.3,
@@ -6194,7 +6194,7 @@
       ]
     },
     {
-      "name": "Shopping Cart Arrow Down",
+      "text": "Shopping Cart Arrow Down",
       "id": "cart-arrow-down",
       "unicode": "f218",
       "created": 4.3,
@@ -6206,7 +6206,7 @@
       ]
     },
     {
-      "name": "Diamond",
+      "text": "Diamond",
       "id": "diamond",
       "unicode": "f219",
       "created": 4.3,
@@ -6219,7 +6219,7 @@
       ]
     },
     {
-      "name": "Ship",
+      "text": "Ship",
       "id": "ship",
       "unicode": "f21a",
       "created": 4.3,
@@ -6233,7 +6233,7 @@
       ]
     },
     {
-      "name": "User Secret",
+      "text": "User Secret",
       "id": "user-secret",
       "unicode": "f21b",
       "created": 4.3,
@@ -6247,7 +6247,7 @@
       ]
     },
     {
-      "name": "Motorcycle",
+      "text": "Motorcycle",
       "id": "motorcycle",
       "unicode": "f21c",
       "created": 4.3,
@@ -6261,7 +6261,7 @@
       ]
     },
     {
-      "name": "Street View",
+      "text": "Street View",
       "id": "street-view",
       "unicode": "f21d",
       "created": 4.3,
@@ -6273,7 +6273,7 @@
       ]
     },
     {
-      "name": "Heartbeat",
+      "text": "Heartbeat",
       "id": "heartbeat",
       "unicode": "f21e",
       "created": 4.3,
@@ -6286,7 +6286,7 @@
       ]
     },
     {
-      "name": "Venus",
+      "text": "Venus",
       "id": "venus",
       "unicode": "f221",
       "created": 4.3,
@@ -6298,7 +6298,7 @@
       ]
     },
     {
-      "name": "Mars",
+      "text": "Mars",
       "id": "mars",
       "unicode": "f222",
       "created": 4.3,
@@ -6310,7 +6310,7 @@
       ]
     },
     {
-      "name": "Mercury",
+      "text": "Mercury",
       "id": "mercury",
       "unicode": "f223",
       "created": 4.3,
@@ -6322,7 +6322,7 @@
       ]
     },
     {
-      "name": "Transgender",
+      "text": "Transgender",
       "id": "transgender",
       "unicode": "f224",
       "created": 4.3,
@@ -6334,7 +6334,7 @@
       ]
     },
     {
-      "name": "Transgender Alt",
+      "text": "Transgender Alt",
       "id": "transgender-alt",
       "unicode": "f225",
       "created": 4.3,
@@ -6343,7 +6343,7 @@
       ]
     },
     {
-      "name": "Venus Double",
+      "text": "Venus Double",
       "id": "venus-double",
       "unicode": "f226",
       "created": 4.3,
@@ -6352,7 +6352,7 @@
       ]
     },
     {
-      "name": "Mars Double",
+      "text": "Mars Double",
       "id": "mars-double",
       "unicode": "f227",
       "created": 4.3,
@@ -6361,7 +6361,7 @@
       ]
     },
     {
-      "name": "Venus Mars",
+      "text": "Venus Mars",
       "id": "venus-mars",
       "unicode": "f228",
       "created": 4.3,
@@ -6370,7 +6370,7 @@
       ]
     },
     {
-      "name": "Mars Stroke",
+      "text": "Mars Stroke",
       "id": "mars-stroke",
       "unicode": "f229",
       "created": 4.3,
@@ -6379,7 +6379,7 @@
       ]
     },
     {
-      "name": "Mars Stroke Vertical",
+      "text": "Mars Stroke Vertical",
       "id": "mars-stroke-v",
       "unicode": "f22a",
       "created": 4.3,
@@ -6388,7 +6388,7 @@
       ]
     },
     {
-      "name": "Mars Stroke Horizontal",
+      "text": "Mars Stroke Horizontal",
       "id": "mars-stroke-h",
       "unicode": "f22b",
       "created": 4.3,
@@ -6397,7 +6397,7 @@
       ]
     },
     {
-      "name": "Neuter",
+      "text": "Neuter",
       "id": "neuter",
       "unicode": "f22c",
       "created": 4.3,
@@ -6406,7 +6406,7 @@
       ]
     },
     {
-      "name": "Genderless",
+      "text": "Genderless",
       "id": "genderless",
       "unicode": "f22d",
       "created": 4.4,
@@ -6415,7 +6415,7 @@
       ]
     },
     {
-      "name": "Facebook Official",
+      "text": "Facebook Official",
       "id": "facebook-official",
       "unicode": "f230",
       "created": 4.3,
@@ -6424,7 +6424,7 @@
       ]
     },
     {
-      "name": "Pinterest P",
+      "text": "Pinterest P",
       "id": "pinterest-p",
       "unicode": "f231",
       "created": 4.3,
@@ -6433,7 +6433,7 @@
       ]
     },
     {
-      "name": "What's App",
+      "text": "What's App",
       "id": "whatsapp",
       "unicode": "f232",
       "created": 4.3,
@@ -6442,7 +6442,7 @@
       ]
     },
     {
-      "name": "Server",
+      "text": "Server",
       "id": "server",
       "unicode": "f233",
       "created": 4.3,
@@ -6451,7 +6451,7 @@
       ]
     },
     {
-      "name": "Add User",
+      "text": "Add User",
       "id": "user-plus",
       "unicode": "f234",
       "created": 4.3,
@@ -6464,7 +6464,7 @@
       ]
     },
     {
-      "name": "Remove User",
+      "text": "Remove User",
       "id": "user-times",
       "unicode": "f235",
       "created": 4.3,
@@ -6473,7 +6473,7 @@
       ]
     },
     {
-      "name": "Bed",
+      "text": "Bed",
       "id": "bed",
       "unicode": "f236",
       "created": 4.3,
@@ -6488,7 +6488,7 @@
       ]
     },
     {
-      "name": "Viacoin",
+      "text": "Viacoin",
       "id": "viacoin",
       "unicode": "f237",
       "created": 4.3,
@@ -6498,7 +6498,7 @@
       ]
     },
     {
-      "name": "Train",
+      "text": "Train",
       "id": "train",
       "unicode": "f238",
       "created": 4.3,
@@ -6507,7 +6507,7 @@
       ]
     },
     {
-      "name": "Subway",
+      "text": "Subway",
       "id": "subway",
       "unicode": "f239",
       "created": 4.3,
@@ -6516,7 +6516,7 @@
       ]
     },
     {
-      "name": "Medium",
+      "text": "Medium",
       "id": "medium",
       "unicode": "f23a",
       "created": 4.3,
@@ -6525,7 +6525,7 @@
       ]
     },
     {
-      "name": "Y Combinator",
+      "text": "Y Combinator",
       "id": "y-combinator",
       "unicode": "f23b",
       "created": 4.4,
@@ -6537,7 +6537,7 @@
       ]
     },
     {
-      "name": "Optin Monster",
+      "text": "Optin Monster",
       "id": "optin-monster",
       "unicode": "f23c",
       "created": 4.4,
@@ -6547,7 +6547,7 @@
       ]
     },
     {
-      "name": "OpenCart",
+      "text": "OpenCart",
       "id": "opencart",
       "unicode": "f23d",
       "created": 4.4,
@@ -6557,7 +6557,7 @@
       ]
     },
     {
-      "name": "ExpeditedSSL",
+      "text": "ExpeditedSSL",
       "id": "expeditedssl",
       "unicode": "f23e",
       "created": 4.4,
@@ -6566,7 +6566,7 @@
       ]
     },
     {
-      "name": "Battery Full",
+      "text": "Battery Full",
       "id": "battery-full",
       "unicode": "f240",
       "created": 4.4,
@@ -6578,7 +6578,7 @@
       ]
     },
     {
-      "name": "Battery 3/4 Full",
+      "text": "Battery 3/4 Full",
       "id": "battery-three-quarters",
       "unicode": "f241",
       "created": 4.4,
@@ -6590,7 +6590,7 @@
       ]
     },
     {
-      "name": "Battery 1/2 Full",
+      "text": "Battery 1/2 Full",
       "id": "battery-half",
       "unicode": "f242",
       "created": 4.4,
@@ -6602,7 +6602,7 @@
       ]
     },
     {
-      "name": "Battery 1/4 Full",
+      "text": "Battery 1/4 Full",
       "id": "battery-quarter",
       "unicode": "f243",
       "created": 4.4,
@@ -6614,7 +6614,7 @@
       ]
     },
     {
-      "name": "Battery Empty",
+      "text": "Battery Empty",
       "id": "battery-empty",
       "unicode": "f244",
       "created": 4.4,
@@ -6626,7 +6626,7 @@
       ]
     },
     {
-      "name": "Mouse Pointer",
+      "text": "Mouse Pointer",
       "id": "mouse-pointer",
       "unicode": "f245",
       "created": 4.4,
@@ -6635,7 +6635,7 @@
       ]
     },
     {
-      "name": "I Beam Cursor",
+      "text": "I Beam Cursor",
       "id": "i-cursor",
       "unicode": "f246",
       "created": 4.4,
@@ -6644,7 +6644,7 @@
       ]
     },
     {
-      "name": "Object Group",
+      "text": "Object Group",
       "id": "object-group",
       "unicode": "f247",
       "created": 4.4,
@@ -6653,7 +6653,7 @@
       ]
     },
     {
-      "name": "Object Ungroup",
+      "text": "Object Ungroup",
       "id": "object-ungroup",
       "unicode": "f248",
       "created": 4.4,
@@ -6662,7 +6662,7 @@
       ]
     },
     {
-      "name": "Sticky Note",
+      "text": "Sticky Note",
       "id": "sticky-note",
       "unicode": "f249",
       "created": 4.4,
@@ -6671,7 +6671,7 @@
       ]
     },
     {
-      "name": "Sticky Note Outlined",
+      "text": "Sticky Note Outlined",
       "id": "sticky-note-o",
       "unicode": "f24a",
       "created": 4.4,
@@ -6680,7 +6680,7 @@
       ]
     },
     {
-      "name": "JCB Credit Card",
+      "text": "JCB Credit Card",
       "id": "cc-jcb",
       "unicode": "f24b",
       "created": 4.4,
@@ -6690,7 +6690,7 @@
       ]
     },
     {
-      "name": "Diner's Club Credit Card",
+      "text": "Diner's Club Credit Card",
       "id": "cc-diners-club",
       "unicode": "f24c",
       "created": 4.4,
@@ -6700,7 +6700,7 @@
       ]
     },
     {
-      "name": "Clone",
+      "text": "Clone",
       "id": "clone",
       "unicode": "f24d",
       "created": 4.4,
@@ -6712,7 +6712,7 @@
       ]
     },
     {
-      "name": "Balance Scale",
+      "text": "Balance Scale",
       "id": "balance-scale",
       "unicode": "f24e",
       "created": 4.4,
@@ -6721,7 +6721,7 @@
       ]
     },
     {
-      "name": "Hourglass Outlined",
+      "text": "Hourglass Outlined",
       "id": "hourglass-o",
       "unicode": "f250",
       "created": 4.4,
@@ -6730,7 +6730,7 @@
       ]
     },
     {
-      "name": "Hourglass Start",
+      "text": "Hourglass Start",
       "id": "hourglass-start",
       "unicode": "f251",
       "created": 4.4,
@@ -6742,7 +6742,7 @@
       ]
     },
     {
-      "name": "Hourglass Half",
+      "text": "Hourglass Half",
       "id": "hourglass-half",
       "unicode": "f252",
       "created": 4.4,
@@ -6754,7 +6754,7 @@
       ]
     },
     {
-      "name": "Hourglass End",
+      "text": "Hourglass End",
       "id": "hourglass-end",
       "unicode": "f253",
       "created": 4.4,
@@ -6766,7 +6766,7 @@
       ]
     },
     {
-      "name": "Hourglass",
+      "text": "Hourglass",
       "id": "hourglass",
       "unicode": "f254",
       "created": 4.4,
@@ -6775,7 +6775,7 @@
       ]
     },
     {
-      "name": "Rock (Hand)",
+      "text": "Rock (Hand)",
       "id": "hand-rock-o",
       "unicode": "f255",
       "created": 4.4,
@@ -6788,7 +6788,7 @@
       ]
     },
     {
-      "name": "Paper (Hand)",
+      "text": "Paper (Hand)",
       "id": "hand-paper-o",
       "unicode": "f256",
       "created": 4.4,
@@ -6801,7 +6801,7 @@
       ]
     },
     {
-      "name": "Scissors (Hand)",
+      "text": "Scissors (Hand)",
       "id": "hand-scissors-o",
       "unicode": "f257",
       "created": 4.4,
@@ -6811,7 +6811,7 @@
       ]
     },
     {
-      "name": "Lizard (Hand)",
+      "text": "Lizard (Hand)",
       "id": "hand-lizard-o",
       "unicode": "f258",
       "created": 4.4,
@@ -6821,7 +6821,7 @@
       ]
     },
     {
-      "name": "Spock (Hand)",
+      "text": "Spock (Hand)",
       "id": "hand-spock-o",
       "unicode": "f259",
       "created": 4.4,
@@ -6831,7 +6831,7 @@
       ]
     },
     {
-      "name": "Hand Pointer",
+      "text": "Hand Pointer",
       "id": "hand-pointer-o",
       "unicode": "f25a",
       "created": 4.4,
@@ -6841,7 +6841,7 @@
       ]
     },
     {
-      "name": "Hand Peace",
+      "text": "Hand Peace",
       "id": "hand-peace-o",
       "unicode": "f25b",
       "created": 4.4,
@@ -6851,7 +6851,7 @@
       ]
     },
     {
-      "name": "Trademark",
+      "text": "Trademark",
       "id": "trademark",
       "unicode": "f25c",
       "created": 4.4,
@@ -6860,7 +6860,7 @@
       ]
     },
     {
-      "name": "Registered Trademark",
+      "text": "Registered Trademark",
       "id": "registered",
       "unicode": "f25d",
       "created": 4.4,
@@ -6869,7 +6869,7 @@
       ]
     },
     {
-      "name": "Creative Commons",
+      "text": "Creative Commons",
       "id": "creative-commons",
       "unicode": "f25e",
       "created": 4.4,
@@ -6878,7 +6878,7 @@
       ]
     },
     {
-      "name": "GG Currency",
+      "text": "GG Currency",
       "id": "gg",
       "unicode": "f260",
       "created": 4.4,
@@ -6888,7 +6888,7 @@
       ]
     },
     {
-      "name": "GG Currency Circle",
+      "text": "GG Currency Circle",
       "id": "gg-circle",
       "unicode": "f261",
       "created": 4.4,
@@ -6898,7 +6898,7 @@
       ]
     },
     {
-      "name": "TripAdvisor",
+      "text": "TripAdvisor",
       "id": "tripadvisor",
       "unicode": "f262",
       "created": 4.4,
@@ -6907,7 +6907,7 @@
       ]
     },
     {
-      "name": "Odnoklassniki",
+      "text": "Odnoklassniki",
       "id": "odnoklassniki",
       "unicode": "f263",
       "created": 4.4,
@@ -6916,7 +6916,7 @@
       ]
     },
     {
-      "name": "Odnoklassniki Square",
+      "text": "Odnoklassniki Square",
       "id": "odnoklassniki-square",
       "unicode": "f264",
       "created": 4.4,
@@ -6925,7 +6925,7 @@
       ]
     },
     {
-      "name": "Get Pocket",
+      "text": "Get Pocket",
       "id": "get-pocket",
       "unicode": "f265",
       "created": 4.4,
@@ -6934,7 +6934,7 @@
       ]
     },
     {
-      "name": "Wikipedia W",
+      "text": "Wikipedia W",
       "id": "wikipedia-w",
       "unicode": "f266",
       "created": 4.4,
@@ -6943,7 +6943,7 @@
       ]
     },
     {
-      "name": "Safari",
+      "text": "Safari",
       "id": "safari",
       "unicode": "f267",
       "created": 4.4,
@@ -6952,7 +6952,7 @@
       ]
     },
     {
-      "name": "Chrome",
+      "text": "Chrome",
       "id": "chrome",
       "unicode": "f268",
       "created": 4.4,
@@ -6961,7 +6961,7 @@
       ]
     },
     {
-      "name": "Firefox",
+      "text": "Firefox",
       "id": "firefox",
       "unicode": "f269",
       "created": 4.4,
@@ -6970,7 +6970,7 @@
       ]
     },
     {
-      "name": "Opera",
+      "text": "Opera",
       "id": "opera",
       "unicode": "f26a",
       "created": 4.4,
@@ -6979,7 +6979,7 @@
       ]
     },
     {
-      "name": "Internet-explorer",
+      "text": "Internet-explorer",
       "id": "internet-explorer",
       "unicode": "f26b",
       "created": 4.4,
@@ -6988,7 +6988,7 @@
       ]
     },
     {
-      "name": "Television",
+      "text": "Television",
       "id": "television",
       "unicode": "f26c",
       "created": 4.4,
@@ -7000,7 +7000,7 @@
       ]
     },
     {
-      "name": "Contao",
+      "text": "Contao",
       "id": "contao",
       "unicode": "f26d",
       "created": 4.4,
@@ -7009,7 +7009,7 @@
       ]
     },
     {
-      "name": "500px",
+      "text": "500px",
       "id": "500px",
       "unicode": "f26e",
       "created": 4.4,
@@ -7018,7 +7018,7 @@
       ]
     },
     {
-      "name": "Amazon",
+      "text": "Amazon",
       "id": "amazon",
       "unicode": "f270",
       "created": 4.4,
@@ -7027,7 +7027,7 @@
       ]
     },
     {
-      "name": "Calendar Plus Outlined",
+      "text": "Calendar Plus Outlined",
       "id": "calendar-plus-o",
       "unicode": "f271",
       "created": 4.4,
@@ -7036,7 +7036,7 @@
       ]
     },
     {
-      "name": "Calendar Minus Outlined",
+      "text": "Calendar Minus Outlined",
       "id": "calendar-minus-o",
       "unicode": "f272",
       "created": 4.4,
@@ -7045,7 +7045,7 @@
       ]
     },
     {
-      "name": "Calendar Times Outlined",
+      "text": "Calendar Times Outlined",
       "id": "calendar-times-o",
       "unicode": "f273",
       "created": 4.4,
@@ -7054,7 +7054,7 @@
       ]
     },
     {
-      "name": "Calendar Check Outlined",
+      "text": "Calendar Check Outlined",
       "id": "calendar-check-o",
       "unicode": "f274",
       "created": 4.4,
@@ -7063,7 +7063,7 @@
       ]
     },
     {
-      "name": "Industry",
+      "text": "Industry",
       "id": "industry",
       "unicode": "f275",
       "created": 4.4,
@@ -7072,7 +7072,7 @@
       ]
     },
     {
-      "name": "Map Pin",
+      "text": "Map Pin",
       "id": "map-pin",
       "unicode": "f276",
       "created": 4.4,
@@ -7081,7 +7081,7 @@
       ]
     },
     {
-      "name": "Map Signs",
+      "text": "Map Signs",
       "id": "map-signs",
       "unicode": "f277",
       "created": 4.4,
@@ -7090,7 +7090,7 @@
       ]
     },
     {
-      "name": "Map Outline",
+      "text": "Map Outline",
       "id": "map-o",
       "unicode": "f278",
       "created": 4.4,
@@ -7099,7 +7099,7 @@
       ]
     },
     {
-      "name": "Map",
+      "text": "Map",
       "id": "map",
       "unicode": "f279",
       "created": 4.4,
@@ -7108,7 +7108,7 @@
       ]
     },
     {
-      "name": "Commenting",
+      "text": "Commenting",
       "id": "commenting",
       "unicode": "f27a",
       "created": 4.4,
@@ -7117,7 +7117,7 @@
       ]
     },
     {
-      "name": "Commenting Outlined",
+      "text": "Commenting Outlined",
       "id": "commenting-o",
       "unicode": "f27b",
       "created": 4.4,
@@ -7126,7 +7126,7 @@
       ]
     },
     {
-      "name": "Houzz",
+      "text": "Houzz",
       "id": "houzz",
       "unicode": "f27c",
       "created": 4.4,
@@ -7135,7 +7135,7 @@
       ]
     },
     {
-      "name": "Vimeo",
+      "text": "Vimeo",
       "id": "vimeo",
       "unicode": "f27d",
       "created": 4.4,
@@ -7144,7 +7144,7 @@
       ]
     },
     {
-      "name": "Font Awesome Black Tie",
+      "text": "Font Awesome Black Tie",
       "id": "black-tie",
       "unicode": "f27e",
       "created": 4.4,
@@ -7154,7 +7154,7 @@
       ]
     },
     {
-      "name": "Fonticons",
+      "text": "Fonticons",
       "id": "fonticons",
       "unicode": "f280",
       "created": 4.4,

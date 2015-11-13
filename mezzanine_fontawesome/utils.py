@@ -16,7 +16,7 @@ def get_icon_choices_and_filters():
     for icon in icons.get('icons'):
         CHOICES.append((
             icon.get('id'),
-            icon.get('name')
+            icon.get('text')
         ))
 
         icon_filters[icon.get('id')] = icon.get('filter')
