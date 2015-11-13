@@ -15,11 +15,3 @@ class IconFormField(forms.Field):
             kwargs['initial'] = Icon(*kwargs['initial'])
 
         super(IconFormField, self).__init__(**kwargs)
-
-    def widget_attrs(self, widget):
-        classes = widget.attrs.get('class', '').split()
-        classes.append('fontawesome-select')
-
-        return {
-            'class': ' '.join(classes),
-        }
