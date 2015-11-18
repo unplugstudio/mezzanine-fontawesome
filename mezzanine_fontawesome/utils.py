@@ -5,10 +5,9 @@ import json
 PATH = os.path.join(os.path.dirname(__file__), "static/fontawesome/js/icons.json")
 
 
-def get_icon_choices_and_filters():
+def get_icon_choices():
 
     CHOICES = [("", "----------")]
-    icon_filters = {"": ["----------"]}
 
     with open(PATH) as f:
         icons = json.load(f)
@@ -19,6 +18,4 @@ def get_icon_choices_and_filters():
             icon.get("text")
         ))
 
-        icon_filters[icon.get("id")] = icon.get("filter")
-
-    return CHOICES, icon_filters
+    return CHOICES

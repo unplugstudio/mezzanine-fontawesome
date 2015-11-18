@@ -4,7 +4,7 @@ from django import forms
 
 from utils import get_icon_choices_and_filters
 
-CHOICES, icon_filters = get_icon_choices_and_filters()
+CHOICES = get_icon_choices()
 
 
 class Select2Widget(forms.Select):
