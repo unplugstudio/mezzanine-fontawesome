@@ -2,7 +2,7 @@ from __future__ import unicode_literals
 
 from django import forms
 
-from utils import get_icon_choices_and_filters
+from utils import get_icon_choices
 
 CHOICES = get_icon_choices()
 
