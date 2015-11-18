@@ -11,7 +11,7 @@ class IconFormField(forms.Field):
     def __init__(self, *args, **kwargs):
         self.widget = IconWidget
 
-        if 'initial' in kwargs:
-            kwargs['initial'] = Icon(*kwargs['initial'])
+        if "initial" in kwargs:
+            kwargs["initial"] = Icon(*kwargs["initial"])
 
         super(IconFormField, self).__init__(**kwargs)

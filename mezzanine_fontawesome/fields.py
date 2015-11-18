@@ -9,10 +9,10 @@ from .forms import IconFormField
 
 class IconField(models.Field):
 
-    description = _('A fontawesome icon field')
+    description = _("A fontawesome icon field")
 
     def __init__(self, *args, **kwargs):
-        kwargs['max_length'] = 60
+        kwargs["max_length"] = 60
         super(IconField, self).__init__(*args, **kwargs)
 
     def from_db_value(self, value, expression, connection, context):
@@ -30,14 +30,14 @@ class IconField(models.Field):
         return Icon(icon_name=value)
 
     def get_internal_type(self):
-        return 'CharField'
+        return "CharField"
 
     def get_prep_value(self, value):
         return str(value)
 
     def formfield(self, **kwargs):
         defaults = {
-            'form_class': IconFormField,
+            "form_class": IconFormField,
         }
         defaults.update(kwargs)
         return super(IconField, self).formfield(**defaults)

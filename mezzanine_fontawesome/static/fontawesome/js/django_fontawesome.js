@@ -5,17 +5,17 @@ if (!$) {
 $(document).ready(function() {
     function formatState(state) {
         if (!state.id) { return state.text; }
-        return '<i class="fa fa-' + state.id + '"></i> ' + state.text;
+        return "<i class='fa fa-" + state.id + "'></i> " + state.text;
     }
 
-    $('.fontawesome-select').select2({
-        width: 'element',
+    $(".fontawesome-select").select2({
+        width: "element",
         templateResult: formatState,
         templateSelection: formatState,
         escapeMarkup: function(m) {return m;},
         ajax: {
             url: "/static/fontawesome/js/icons.json",
-            dataType: 'json',
+            dataType: "json",
             delay: 250,
             data: function (params) {
                 return {
@@ -34,7 +34,7 @@ $(document).ready(function() {
                 var ICONS_PER_PAGE = 30;
 
                 // Always return the object if there is nothing to compare
-                if (params.term !== '') {
+                if (params.term !== "") {
                     var data_icons = icons;
                     icons = [];
                     for (var i=0; i < data_icons.length; i++) {
