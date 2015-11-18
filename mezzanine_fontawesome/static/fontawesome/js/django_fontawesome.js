@@ -8,6 +8,10 @@ $(document).ready(function() {
         return "<i class='fa fa-" + state.id + "'></i> " + state.text;
     }
 
+    $(".select2-widget").select2({
+        width: "element"
+    });
+
     $(".fontawesome-select").select2({
         width: "element",
         templateResult: formatState,
