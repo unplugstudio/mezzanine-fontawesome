@@ -9,9 +9,16 @@ CHOICES = get_icon_choices()
 
 class Select2Widget(forms.Select):
 
-    def __init__(self, attrs=None):
-        attrs = {"class": "select2-widget"}
-        super(Select2Widget, self).__init__(attrs)
+    def build_attrs(self, extra_attrs=None, **kwargs):
+        """
+        Add data attributes for the select2 widget.
+        """
+        attrs = super(Select2Widget, self).build_attrs(extra_attrs=extra_attrs, **kwargs)
+        if "class" in attrs:
+            attrs["class"] += " select2-widget"
+        else:
+            attrs["class"] = "select2-widget"
+        return attrs
 
     class Media:
         js = (
@@ -29,8 +36,18 @@ class Select2Widget(forms.Select):
 class IconWidget(Select2Widget):
 
     def __init__(self, attrs=None):
-        attrs = {"class": "fontawesome-select"}
-        super(Select2Widget, self).__init__(attrs, choices=CHOICES)
+        super(IconWidget, self).__init__(attrs, choices=CHOICES)
+
+    def build_attrs(self, extra_attrs=None, **kwargs):
+        """
+        Add data attributes for the icon fontawesome widget.
+        """
+        attrs = super(Select2Widget, self).build_attrs(extra_attrs=extra_attrs, **kwargs)
+        if "class" in attrs:
+            attrs["class"] += " fontawesome-select"
+        else:
+            attrs["class"] = "fontawesome-select"
+        return attrs
 
     class Media:
         css = {
