@@ -5,7 +5,8 @@ if (!$) {
 $(document).ready(function() {
     function formatState(state) {
         if (!state.id) { return state.text; }
-        return "<i class='fa fa-" + state.id + "'></i> " + state.text;
+        state_id = state.id.split(",")[0];
+        return "<i class='fa fa-" + state_id + "'></i> " + state.text;
     }
 
     $(".select2-widget").select2({
@@ -54,6 +55,10 @@ $(document).ready(function() {
                 }
 
                 result = [];
+                for (i in icons) {
+                    icons[i].id = icons[i].id + ", " + icons[i].text;
+                }
+
                 var icons_original = icons.slice(0);
                 while(icons.length) {
                     result.push(icons.splice(0, ICONS_PER_PAGE));
