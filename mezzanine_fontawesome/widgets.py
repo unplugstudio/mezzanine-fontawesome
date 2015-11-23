@@ -4,10 +4,6 @@ from django import forms
 from django.utils.encoding import force_text
 from django.utils.html import format_html
 
-from utils import get_icon_choices
-
-CHOICES = get_icon_choices()
-
 
 class Select2Widget(forms.Select):
 
