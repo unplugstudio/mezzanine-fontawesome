@@ -10,4 +10,7 @@ class Icon(object):
         self.name = icon_name
 
     def __str__(self):
+        return self.name
+
+    def get_icon_display(self):
         return self.name.split(",")[0]
