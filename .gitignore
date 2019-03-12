@@ -1,6 +1,7 @@
 *.pyc
 *.egg
 *.egg-info
-*.sublime-workspace
+*.sublime-*
+.vscode
 build
 dist
