@@ -7,7 +7,8 @@ from django.utils.encoding import python_2_unicode_compatible
 class Icon(object):
 
     def __init__(self, icon_name):
-        self.name = icon_name
+        # Trim surrounding whitespace
+        self.name = ",".join(s.strip() for s in icon_name.split(","))
 
     def __str__(self):
         return self.name
