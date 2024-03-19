@@ -3,7 +3,7 @@ from __future__ import unicode_literals
 from django import forms
 
 from . import Icon
-from widgets import IconWidget
+from .widgets import IconWidget
 
 
 class IconFormField(forms.Field):
